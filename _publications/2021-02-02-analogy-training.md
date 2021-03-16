@@ -1,0 +1,11 @@
+---
+title: "Analogy Training Multilingual Encoders"
+collection: publications
+permalink: /publication/2021-02-02-analogy-training
+excerpt: "Language encoders encode words and phrases in ways that  capture  their  local  semantic  relatedness,  but  are known to be globally inconsistent. Global inconsistencycan seemingly be corrected for, in part, by leveraging signals from knowledge bases, but previous results are partial  and  limited  to  monolingual  English  encoders.We extract a large-scale multilingual, multi-word analogy dataset from Wikidata for diagnosing and correcting for global inconsistencies and implement a four-way Siamese BERT architecture for grounding multilingualBERT (mBERT) in Wikidata through analogy training. We  show  that  analogy  training  not  only  improves  theglobal  consistency  of  mBERT,  as  well  as  the  isomorphism of language-specific subspaces, but also leads to significant gains on downstream tasks such as bilingual dictionary induction and sentence retrieval."
+date: 2021-02-02
+venue: 'to appear in the 35th AAAI Conference on Artificial Intelligence'
+paperurl: ''
+citation: 'Garneau, N., Hartmann, M., Sandholm, A., Ruder, S., Vulic, I., & Søgaard, A. (2021, February). Analogy Training Multilingual Encoders. In Proceedings of the 35th AAAI Conference on Artificial Intelligence.'
+---
+Language encoders encode words and phrases in ways that  capture  their  local  semantic  relatedness,  but  are known to be globally inconsistent. Global inconsistencycan seemingly be corrected for, in part, by leveraging signals from knowledge bases, but previous results are partial  and  limited  to  monolingual  English  encoders.We extract a large-scale multilingual, multi-word analogy dataset from Wikidata for diagnosing and correcting for global inconsistencies and implement a four-way Siamese BERT architecture for grounding multilingualBERT (mBERT) in Wikidata through analogy training. We  show  that  analogy  training  not  only  improves  theglobal  consistency  of  mBERT,  as  well  as  the  isomorphism of language-specific subspaces, but also leads to significant gains on downstream tasks such as bilingual dictionary induction and sentence retrieval.
