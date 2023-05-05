@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Hi there! 
+title: Nicolas Garneau 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Nicolas.
+Hey, I'm Nicolas.
 
 I work on several projects all related to natural language processing (NLP) in general.
 
