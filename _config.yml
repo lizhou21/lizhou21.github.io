@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Zhou"
+title                    : "Li Zhou | 周莉"
 title_separator          : "-"
 name                     : &name "Li Zhou"
-description              : &description "personal description"
+description              : &description "li_zhou@std.uestc.edu.cn"
 url                      : "https://lizhou21.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lizhou21/lizhou21.github.io"
@@ -81,14 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Li Zhou | 周  莉"
-  name2            : "周  莉"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at UESTC (li_zhou@std.uestc.edu.cn)"
+  bio              : "Ph.D. Candidate at UESTC"
   location         : "Chengdu, Sichuan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BLWhoYcAAAAJ&hl=zh-CN&oi=ao"
-  email            :li_zhou@std.uestc.edu.cn
+  email            : "li_zhou@std.uestc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
