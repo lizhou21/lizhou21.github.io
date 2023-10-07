@@ -83,12 +83,12 @@ author:
   name             : "Li Zhou"
   name2            : "周  莉"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at UESTC (yongcao_epic@hust.edu.cn)"
+  bio              : "Ph.D. Candidate at UESTC"
   location         : "Chengdu, Sichuan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BLWhoYcAAAAJ&hl=zh-CN&oi=ao"
-  email            : "li_zhou@std.uestc.edu.cn"
+  email            : li_zhou@std.uestc.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
