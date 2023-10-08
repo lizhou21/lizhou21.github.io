@@ -22,7 +22,7 @@ author_profile: true
 Findings of EMNLP 2023.
 
 **Copyright Violations and Large Language Models**   
-Antonia Karamolegkou, Jiaang Li, *<ins>Li Zhou</ins>*, Anders Søgaard   
+Antonia Karamolegkou*, Jiaang Li*, *<ins>Li Zhou</ins>*, Anders Søgaard   
 EMNLP 2023.
 
 **Cross-Cultural Transfer Learning for Chinese Offensive Language Detection**   
@@ -48,7 +48,7 @@ AAAI 2023 [[Proceedings]](https://ojs.aaai.org/index.php/AAAI/article/view/26318
 # 2022
 
 **A simple graph neural network via layer sniffer**   
-Dingyi Zeng*, *<ins>Li Zhou\*</ins>*, Wanlong Liu, Hong Qu, Wenyu Chen   
+Dingyi Zeng\*, *<ins>Li Zhou\*</ins>*, Wanlong Liu, Hong Qu, Wenyu Chen   
 ICASSP 2022 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/9746357)
 
 **Document-Level Relation Extraction with Structure Enhanced Transformer Encoder**   
