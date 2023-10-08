@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "😊Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# 😊 Welcome
 
 Hey! I'm Li Zhou, an NLP enthusiast and explorer🤗. 
 I'm currently a Ph.D. Candidate at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), 
