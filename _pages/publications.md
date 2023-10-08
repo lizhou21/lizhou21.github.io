@@ -36,3 +36,25 @@ Cross-Cultural Considerations in NLP Workshop at EACL 2023 [[Proceedings]](https
 **DPGNN: Dual-perception graph neural network for representation learning**
 *<ins>Li Zhou</ins>*, Wenyu Chen, Dingyi Zeng, Shaohuan Cheng, Wanlong Liu, Malu Zhang, Hong Qu
 Knowledge-Based Systems [[Journal]](https://www.sciencedirect.com/science/article/pii/S0950705123001272) [[PDF]](https://lizhou21.github.io/files/DPGNN.pdf)
+
+**Rethinking Random Walk in Graph Representation Learning**
+Dingyi Zeng, Wenyu Chen, Wanlong Liu, *<ins>Li Zhou</ins>*, Hong Qu
+ICASSP 2023 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/10096316/)
+
+**Substructure aware graph neural networks**
+Dingyi Zeng*, Wanlong Liu*, Wenyu Chen, *<ins>Li Zhou</ins>*, Malu Zhang, Hong Qu
+AAAI 2023 [[Proceedings]](https://ojs.aaai.org/index.php/AAAI/article/view/26318)
+
+# 2022
+
+**A simple graph neural network via layer sniffer**
+Dingyi Zeng*, *<ins>Li Zhou\*</ins>*, Wanlong Liu, Hong Qu, Wenyu Chen
+ICASSP 2022 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/9746357)
+
+**Document-Level Relation Extraction with Structure Enhanced Transformer Encoder**
+Wanlong Liu, *<ins>Li Zhou</ins>*, Dingyi Zeng, Hong Qu
+IJCNN 2022 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/9892647)
+
+**A weighted GCN with logical adjacency matrix for relation extraction**
+*<ins>Li Zhou\*</ins>*, Tingyu Wang*, Hong Qu, Li Huang, Yuguo Liu
+ECAI 2020 [[Proceedings]](https://ebooks.iospress.nl/doi/10.3233/FAIA200360)
