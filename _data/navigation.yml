@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://lizhou21.github.io/files/MyResume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
