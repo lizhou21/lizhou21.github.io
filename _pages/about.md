@@ -18,7 +18,7 @@ where I had the pleasure of being supervised by Prof. [Daniel Hershcovich](https
 
 My research interest focuses on cultural knowledge probing and enhancing, 
 cross-cultural and multi-lingual transfer learning, 
-analysis of Language Models, 
+analysis of language models, 
 relation extraction,
 graph meaning representation of language, 
 and graph neural networks.
