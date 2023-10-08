@@ -10,7 +10,7 @@ redirect_from:
 
 # 😊 Welcome
 
-Hello world! I'm Li Zhou, an NLP enthusiast and explorer🤗. 
+Hey! I'm Li Zhou, an NLP enthusiast and explorer🤗. 
 I'm currently a Ph.D. Candidate at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), 
 supervised by Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10). 
 
