@@ -15,7 +15,7 @@ I'm currently a Ph.D. Candidate at [University of Electronic Science and Technol
 supervised by Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10). 
 
 I visited the [CoAStaL](https://coastalcph.github.io/) NLP group in the University of Copenhagen (2022-2023), 
-where I had the pleasure of being supervised by [Daniel Hershcovich](https://danielhers.github.io/) and working with the rest of the team.
+where I had the pleasure of being supervised by Prof. [Daniel Hershcovich](https://danielhers.github.io/) and working with the rest of the team.
 
 My research interest focuses on cultural knowledge probing and enhancing, 
 cross-cultural and multi-lingual transfer learning, 
