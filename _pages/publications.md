@@ -21,16 +21,18 @@ author_profile: true
 *<ins>Li Zhou</ins>*,  Antonia Karamolegkou, Wenyu Chen, Daniel Hershcovich
 Findings of EMNLP 2023.
 
-[comment]: <> ([[arxiv]]&#40;https://arxiv.org/abs/2201.12431&#41; [[code]]&#40;https://github.com/neulab/retomaton&#41;)
-
-**Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features**  
+**Copyright Violations and Large Language Models**  
 Antonia Karamolegkou, Jiaang Li, *<ins>Li Zhou</ins>*, Anders Søgaard
 EMNLP 2023.
 
 **Cross-Cultural Transfer Learning for Chinese Offensive Language Detection**
-Li Zhou, Laura Cabello, Yong Cao, Daniel Hershcovich
+*<ins>Li Zhou</ins>*, Laura Cabello, Yong Cao, Daniel Hershcovich
 Cross-Cultural Considerations in NLP Workshop at EACL 2023 [[Proceedings]](https://aclanthology.org/2023.c3nlp-1.2/) [[Arxiv]](https://arxiv.org/abs/2303.17927)
 
 **Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study**
 Yong Cao, *<ins>Li Zhou</ins>*, Seolhwa Lee, Laura Cabello Piqueras, Min Chen, Daniel Hershcovich
 Cross-Cultural Considerations in NLP Workshop at EACL 2023 [[Proceedings]](https://aclanthology.org/2023.c3nlp-1.7/) [[Arxiv]](https://arxiv.org/abs/2303.17466)
+
+**DPGNN: Dual-perception graph neural network for representation learning**
+*<ins>Li Zhou</ins>*, Wenyu Chen, Dingyi Zeng, Shaohuan Cheng, Wanlong Liu, Malu Zhang, Hong Qu
+Knowledge-Based Systems [[Journal]](https://www.sciencedirect.com/science/article/pii/S0950705123001272) [[PDF]] (./files/DPGNN.pdf)
