@@ -55,6 +55,8 @@ ICASSP 2022 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/974635
 Wanlong Liu, *<ins>Li Zhou</ins>*, Dingyi Zeng, Hong Qu
 IJCNN 2022 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/9892647)
 
+# 2020
+
 **A weighted GCN with logical adjacency matrix for relation extraction**
 *<ins>Li Zhou\*</ins>*, Tingyu Wang*, Hong Qu, Li Huang, Yuguo Liu
 ECAI 2020 [[Proceedings]](https://ebooks.iospress.nl/doi/10.3233/FAIA200360)
