@@ -35,4 +35,4 @@ Cross-Cultural Considerations in NLP Workshop at EACL 2023 [[Proceedings]](https
 
 **DPGNN: Dual-perception graph neural network for representation learning**
 *<ins>Li Zhou</ins>*, Wenyu Chen, Dingyi Zeng, Shaohuan Cheng, Wanlong Liu, Malu Zhang, Hong Qu
-Knowledge-Based Systems [[Journal]](https://www.sciencedirect.com/science/article/pii/S0950705123001272) [[PDF]] (https://lizhou21.github.io/files/DPGNN.pdf)
+Knowledge-Based Systems [[Journal]](https://www.sciencedirect.com/science/article/pii/S0950705123001272) [[PDF]](https://lizhou21.github.io/files/DPGNN.pdf)
