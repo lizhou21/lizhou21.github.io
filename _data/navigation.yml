@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "📖Publications"
     url: /publications/
 
   # - title: "Talks"
@@ -15,7 +15,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
+  - title: "🙌CV"
     url: https://lizhou21.github.io/files/MyResume.pdf
     
   # - title: "Guide"
