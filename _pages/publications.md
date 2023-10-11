@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+# Pre-print
+**CARLG: Leveraging Contextual Clues and Role Correlations for Improving Document-level Event Argument Extraction**
+Wanlong Liu, Wenyu Chen, Dingyi Zeng, *<ins>Li Zhou</ins>*, Hong Qu
+2023. [[Arxiv]](https://arxiv.org/abs/2310.05116)
+
 # 2023
 
 **Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features**   
