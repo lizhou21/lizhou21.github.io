@@ -19,7 +19,7 @@ author_profile: true
 
 **Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features**   
 *<ins>Li Zhou</ins>*,  Antonia Karamolegkou, Wenyu Chen, Daniel Hershcovich   
-Findings of EMNLP 2023.
+Findings of EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.06458)
 
 **Copyright Violations and Large Language Models**   
 Antonia Karamolegkou*, Jiaang Li*, *<ins>Li Zhou</ins>*, Anders Søgaard   
