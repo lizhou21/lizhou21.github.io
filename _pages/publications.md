@@ -65,3 +65,5 @@ IJCNN 2022 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/9892647
 **A weighted GCN with logical adjacency matrix for relation extraction**   
 *<ins>Li Zhou\*</ins>*, Tingyu Wang*, Hong Qu, Li Huang, Yuguo Liu   
 ECAI 2020 [[Proceedings]](https://ebooks.iospress.nl/doi/10.3233/FAIA200360)
+
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=ljfEZRHXTEmLabVT7GZW85mWKCt1wWDLTgo3diyEPuQ"></script>
