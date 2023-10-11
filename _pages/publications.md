@@ -67,3 +67,5 @@ IJCNN 2022 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/9892647
 ECAI 2020 [[Proceedings]](https://ebooks.iospress.nl/doi/10.3233/FAIA200360)
 
 <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=ljfEZRHXTEmLabVT7GZW85mWKCt1wWDLTgo3diyEPuQ"></script>
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=RCmshKiBoz4aZ8ATyEv7NfgCeACko5ifiPQSvu0r0DA&cl=ffffff&w=a"></script>
