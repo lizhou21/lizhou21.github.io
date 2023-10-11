@@ -16,9 +16,9 @@ author_profile: true
 {% endfor %}
 
 # Pre-print
-**CARLG: Leveraging Contextual Clues and Role Correlations for Improving Document-level Event Argument Extraction**
-Wanlong Liu, Wenyu Chen, Dingyi Zeng, *<ins>Li Zhou</ins>*, Hong Qu
-2023. [[Arxiv]](https://arxiv.org/abs/2310.05116)
+**CARLG: Leveraging Contextual Clues and Role Correlations for Improving Document-level Event Argument Extraction**   
+Wanlong Liu, Wenyu Chen, Dingyi Zeng, *<ins>Li Zhou</ins>*, Hong Qu   
+ 2023. [[Arxiv]](https://arxiv.org/abs/2310.05116)
 
 # 2023
 
