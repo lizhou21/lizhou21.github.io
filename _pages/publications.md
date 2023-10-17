@@ -18,7 +18,7 @@ author_profile: true
 # Preprints
 **Revisiting Graph Meaning Representations through Decoupling Contextual Representation Learning and Structural Information Propagation**   
 *<ins>Li Zhou</ins>*, Wenyu Chen, Dingyi Zeng, Hong Qu, Daniel Hershcovich   
-Arxiv 2023. [[Arxiv]]()
+Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
 
 
 **CARLG: Leveraging Contextual Clues and Role Correlations for Improving Document-level Event Argument Extraction**   
