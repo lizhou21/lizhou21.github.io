@@ -33,7 +33,7 @@ Findings of EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.06458)
 
 **Copyright Violations and Large Language Models**   
 Antonia Karamolegkou\*, Jiaang Li\*, *<ins>Li Zhou</ins>*, Anders Søgaard   
-EMNLP 2023.
+EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.13771)
 
 **Cross-Cultural Transfer Learning for Chinese Offensive Language Detection**   
 *<ins>Li Zhou</ins>*, Laura Cabello, Yong Cao, Daniel Hershcovich   
