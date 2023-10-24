@@ -23,6 +23,10 @@ Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
 
 # 2023
 
+**Cultural Adaptation of Recipes**   
+Yong Cao, Yova Kementchedjhieva, Ruixiang Cui, Antonia Karamolegkou, *<ins>Li Zhou</ins>*, Megan Dare, Lucia Donatelli, Daniel Hershcovich
+Transactions of the Association for Computational Linguistics (TACL).[[Arxiv]]()
+
 **Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features**   
 *<ins>Li Zhou</ins>*,  Antonia Karamolegkou, Wenyu Chen, Daniel Hershcovich   
 Findings of EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.06458)
