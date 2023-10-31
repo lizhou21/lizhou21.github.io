@@ -20,6 +20,9 @@ author_profile: true
 *<ins>Li Zhou</ins>*, Wenyu Chen, Dingyi Zeng, Hong Qu, Daniel Hershcovich   
 Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
 
+**CreoleVal: Multilingual Multitask Benchmarks for Creoles**   
+Heather Lent, Kushal Tatariya, Raj Dabre, Yiyi Chen, Marcell Fekete, Esther Ploeger, *<ins>Li Zhou</ins>*, Hans Erik Heje, Diptesh Kanojia, Paul Belony, Marcel Bollmann, Loïc Grobol, Miryam de Lhoneux, Daniel Hershcovich, Michel DeGraff, Anders Søgaard, Johannes Bjerva   
+Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.19567)
 
 # 2023
 
