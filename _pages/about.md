@@ -11,7 +11,7 @@ redirect_from:
 
 Hey! I'm Li Zhou, an NLP enthusiast and explorer🤗. 
 I'm currently a Ph.D. Candidate at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), 
-co-supervised by Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10) and Prof. [Hong Qu](https://www.researchgate.net/profile/Hong-Qu-4).
+supervised by Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10) .
 
 I visited the [CoAStaL](https://coastalcph.github.io/) NLP group in the University of Copenhagen (2022-2023), 
 where I had the pleasure of being supervised by Prof. [Daniel Hershcovich](https://danielhers.github.io/) and working with the rest of the team.
