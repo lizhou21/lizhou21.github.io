@@ -39,11 +39,11 @@ Transactions of the Association for Computational Linguistics (TACL).[[Arxiv]](h
 
 **Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features**   
 *<ins>Li Zhou</ins>*,  Antonia Karamolegkou, Wenyu Chen, Daniel Hershcovich   
-Findings of EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.06458)
+Findings of EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.06458) [[Proceedings]](https://aclanthology.org/2023.findings-emnlp.845/)
 
 **Copyright Violations and Large Language Models**   
 Antonia Karamolegkou\*, Jiaang Li\*, *<ins>Li Zhou</ins>*, Anders Søgaard   
-EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.13771)
+EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.13771) [[Proceedings]](https://aclanthology.org/2023.emnlp-main.458/)
 
 **Cross-Cultural Transfer Learning for Chinese Offensive Language Detection**   
 *<ins>Li Zhou</ins>*, Laura Cabello, Yong Cao, Daniel Hershcovich   
