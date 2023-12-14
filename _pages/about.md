@@ -31,7 +31,7 @@ please feel free to reach out to me.
 
 
 # 🔥 News
-
+* [2023.12] &nbsp; 🎉🥳Our paper was accepted by IEEE ICASSP 2024.: [ MLPs Compass: What is learned when MLPs are combined with PLMs?]().
 * [2023.10] &nbsp; 🎉🥳Our paper was accepted by Tansactions of the Association for Computational Linguistics (TACL): [Cultural Adaptation of Recipes](https://arxiv.org/abs/2310.17353).
 * [2023.10] &nbsp; 🎉🥳Two papers were accepted by [EMNLP 2023](https://2023.emnlp.org/): [Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features](https://arxiv.org/abs/2310.06458) (Findings) and [Copyright Violations and Large Language Models]() (Main).
 * [2023.08] &nbsp; [Our paper](https://aclanthology.org/2023.c3nlp-1.7/) was picked up by Danish newspaper [Børsen](https://borsen.dk/nyheder/ai/populaer-chatbot-promoverer-amerikanske-vaerdier-og-normer).
@@ -39,5 +39,5 @@ please feel free to reach out to me.
 * [2023.03] &nbsp; Two papers [Cross-Cultural Transfer Learning for Chinese Offensive Language Detection](https://aclanthology.org/2023.c3nlp-1.2/) and [Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study](https://aclanthology.org/2023.c3nlp-1.7/) were accepted by [Cross-Cultural Considerations in NLP](https://sites.google.com/view/c3nlp) Workshop at EACL 2023.
 * [2023.02] &nbsp; One paper [DPGNN: Dual-perception graph neural network for representation learning](https://www.sciencedirect.com/science/article/pii/S0950705123001272) was accepted in [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems).
 * [2023.02] &nbsp; One paper [Rethinking Random Walk in Graph Representation Learning](https://ieeexplore.ieee.org/abstract/document/10096316/) was accepted in [ICASSP 2023](https://2023.ieeeicassp.org/).
-* [2022.11] &nbsp; One paper [Substructure aware graph neural networks](https://ojs.aaai.org/index.php/AAAI/article/view/26318) was accepted in [AAAI 2023](https://aaai-23.aaai.org/).
+
 * ……
