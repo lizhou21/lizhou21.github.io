@@ -24,6 +24,13 @@ Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
 Heather Lent, Kushal Tatariya, Raj Dabre, Yiyi Chen, Marcell Fekete, Esther Ploeger, *<ins>Li Zhou</ins>*, Hans Erik Heje, Diptesh Kanojia, Paul Belony, Marcel Bollmann, Loïc Grobol, Miryam de Lhoneux, Daniel Hershcovich, Michel DeGraff, Anders Søgaard, Johannes Bjerva   
 Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.19567)
 
+
+# 2024
+**MLPs Compass: What is learned when MLPs are combined with PLMs?**   
+*<ins>Li Zhou</ins>*, Wenyu Chen, Yong Cao, Dingyi Zeng, Wanlong Liu, Hong Qu.  
+ICASSP 2024
+
+
 # 2023
 
 **Cultural Adaptation of Recipes**   
