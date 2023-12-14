@@ -34,7 +34,7 @@ ICASSP 2024
 # 2023
 
 **Cultural Adaptation of Recipes**   
-Yong Cao, Yova Kementchedjhieva, Ruixiang Cui, Antonia Karamolegkou, *<ins>Li Zhou</ins>*, Megan Dare, Lucia Donatelli, Daniel Hershcovich   
+Yong Cao\*, Yova Kementchedjhieva\*, Ruixiang Cui, Antonia Karamolegkou, *<ins>Li Zhou</ins>*, Megan Dare, Lucia Donatelli, Daniel Hershcovich   
 Transactions of the Association for Computational Linguistics (TACL).[[Arxiv]](https://arxiv.org/abs/2310.17353)
 
 **Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features**   
