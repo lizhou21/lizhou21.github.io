@@ -62,7 +62,7 @@ Dingyi Zeng, Wenyu Chen, Wanlong Liu, *<ins>Li Zhou</ins>*, Hong Qu
 ICASSP 2023 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/10096316/)
 
 **Substructure aware graph neural networks**   
-Dingyi Zeng*, Wanlong Liu*, Wenyu Chen, *<ins>Li Zhou</ins>*, Malu Zhang, Hong Qu   
+Dingyi Zeng\*, Wanlong Liu\*, Wenyu Chen, *<ins>Li Zhou</ins>*, Malu Zhang, Hong Qu   
 AAAI 2023 [[Proceedings]](https://ojs.aaai.org/index.php/AAAI/article/view/26318)
 
 # 2022
