@@ -28,7 +28,7 @@ Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.19567)
 # 2024
 **MLPs Compass: What is learned when MLPs are combined with PLMs?**   
 *<ins>Li Zhou</ins>*, Wenyu Chen, Yong Cao, Dingyi Zeng, Wanlong Liu, Hong Qu.  
-ICASSP 2024
+ICASSP 2024. [[Arxiv]](https://arxiv.org/abs/2401.01667)
 
 
 # 2023
