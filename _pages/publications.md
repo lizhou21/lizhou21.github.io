@@ -16,8 +16,8 @@ author_profile: true
 {% endfor %}
 
 # Preprints
-**Revisiting Graph Meaning Representations through Decoupling Contextual Representation Learning and Structural Information Propagation**   
-*<ins>Li Zhou</ins>*, Wenyu Chen, Dingyi Zeng, Hong Qu, Daniel Hershcovich   
+**Rethinking Relation Classification with Graph Meaning Representations**   
+*<ins>Li Zhou</ins>*, Wenyu Chen, Dingyi Zeng, Malu Zhang, Daniel Hershcovich   
 Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
 
 **CreoleVal: Multilingual Multitask Benchmarks for Creoles**   
