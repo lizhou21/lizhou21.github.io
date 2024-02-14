@@ -26,13 +26,13 @@ Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.19567)
 
 
 # 2024
-**Cultural Adaptation of Recipes**   
-Yong Cao\*, Yova Kementchedjhieva\*, Ruixiang Cui, Antonia Karamolegkou, *<ins>Li Zhou</ins>*, Megan Dare, Lucia Donatelli, Daniel Hershcovich   
-Transactions of the Association for Computational Linguistics (TACL).[[Arxiv]](https://arxiv.org/abs/2310.17353)
-
 **MLPs Compass: What is learned when MLPs are combined with PLMs?**   
 *<ins>Li Zhou</ins>*, Wenyu Chen, Yong Cao, Dingyi Zeng, Wanlong Liu, Hong Qu.  
 ICASSP 2024. [[Arxiv]](https://arxiv.org/abs/2401.01667)
+
+**Cultural Adaptation of Recipes**   
+Yong Cao\*, Yova Kementchedjhieva\*, Ruixiang Cui, Antonia Karamolegkou, *<ins>Li Zhou</ins>*, Megan Dare, Lucia Donatelli, Daniel Hershcovich   
+Transactions of the Association for Computational Linguistics (TACL).[[Arxiv]](https://arxiv.org/abs/2310.17353)
 
 
 # 2023
