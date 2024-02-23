@@ -31,7 +31,7 @@ please feel free to reach out to me.
 
 
 # 🔥 News
-* [2024.02] &nbsp; 🌐🗺️ We are organizing the [2nd Workshop on Cross-Cultural Considerations](https://sites.google.com/view/c3nlp/call-for-papers), which is co-located with ACL 2024. The call for papers is out, with deadline April 22.
+* [2024.02] &nbsp; 🌐🗺️ We are organizing the [2nd Workshop on Cross-Cultural Considerations in NLP](https://sites.google.com/view/c3nlp/call-for-papers), which is co-located with ACL 2024. The call for papers is out, with deadline April 22.
 * [2023.12] &nbsp; 🎉🥳Our paper was accepted by [ICASSP 2024](https://2024.ieeeicassp.org/):  [ MLPs Compass: What is learned when MLPs are combined with PLMs?](https://arxiv.org/abs/2401.01667).
 * [2023.10] &nbsp; Our paper was accepted by Tansactions of the Association for Computational Linguistics (TACL): [Cultural Adaptation of Recipes](https://arxiv.org/abs/2310.17353).
 * [2023.10] &nbsp; Two papers were accepted by [EMNLP 2023](https://2023.emnlp.org/): [Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features](https://arxiv.org/abs/2310.06458) (Findings) and [Copyright Violations and Large Language Models]() (Main).
