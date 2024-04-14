@@ -36,7 +36,8 @@ Transactions of the Association for Computational Linguistics (TACL). [[Arxiv]](
 
 **MLPs Compass: What is learned when MLPs are combined with PLMs?**   
 *<ins>Li Zhou</ins>*, Wenyu Chen, Yong Cao, Dingyi Zeng, Wanlong Liu, Hong Qu.  
-ICASSP 2024. [[Arxiv]](https://arxiv.org/abs/2401.01667)
+ICASSP 2024. [[Arxiv]](https://arxiv.org/abs/2401.01667) [[Proceedings]](https://ieeexplore.ieee.org/document/10447714)
+
 
 **Cultural Adaptation of Recipes**   
 Yong Cao\*, Yova Kementchedjhieva\*, Ruixiang Cui, Antonia Karamolegkou, *<ins>Li Zhou</ins>*, Megan Dare, Lucia Donatelli, Daniel Hershcovich   
