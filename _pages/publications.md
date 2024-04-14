@@ -16,15 +16,24 @@ author_profile: true
 {% endfor %}
 
 # Preprints
+**Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge**   
+*<ins>Li Zhou</ins>*, Taelin Karidi, Nicolas Garneau, Yong Cao, Wanlong Liu, Wenyu Chen, Daniel Hershcovich   
+Arxiv 2024. [[Arxiv]](https://arxiv.org/pdf/2404.06833.pdf)
+
+
 **Rethinking Relation Classification with Graph Meaning Representations**   
 *<ins>Li Zhou</ins>*, Wenyu Chen, Dingyi Zeng, Malu Zhang, Daniel Hershcovich   
 Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
 
-**CreoleVal: Multilingual Multitask Benchmarks for Creoles**   
-Heather Lent, Kushal Tatariya, Raj Dabre, Yiyi Chen, Marcell Fekete, Esther Ploeger, *<ins>Li Zhou</ins>*, Hans Erik Heje, Diptesh Kanojia, Paul Belony, Marcel Bollmann, Loïc Grobol, Miryam de Lhoneux, Daniel Hershcovich, Michel DeGraff, Anders Søgaard, Johannes Bjerva   
-Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.19567)
+
 
 # 2024
+**CreoleVal: Multilingual Multitask Benchmarks for Creoles**   
+Heather Lent, Kushal Tatariya, Raj Dabre, Yiyi Chen, Marcell Fekete, Esther Ploeger, *<ins>Li Zhou</ins>*, Hans Erik Heje, Diptesh Kanojia, Paul Belony, Marcel Bollmann, Loïc Grobol, Miryam de Lhoneux, Daniel Hershcovich, Michel DeGraff, Anders Søgaard, Johannes Bjerva   
+Transactions of the Association for Computational Linguistics (TACL). [[Arxiv]](https://arxiv.org/abs/2310.19567)
+
+
+
 **MLPs Compass: What is learned when MLPs are combined with PLMs?**   
 *<ins>Li Zhou</ins>*, Wenyu Chen, Yong Cao, Dingyi Zeng, Wanlong Liu, Hong Qu.  
 ICASSP 2024. [[Arxiv]](https://arxiv.org/abs/2401.01667)
