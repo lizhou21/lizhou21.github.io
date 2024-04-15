@@ -11,8 +11,6 @@ redirect_from:
 
 Hey! I'm Li Zhou, an NLP enthusiast and explorer🤗. 
 
-🏠I grew up in Chengdu, my hometown, a city that blends modernity with traditional culture, boasting over two thousand years of history and renowned as the food capital with delicacies such as hotpot🍲, and traditional Sichuan dishes like mapo tofu🌶️. Chengdu is also home to 🐼He Hua (nicknamed Hua Hua) , captivating Chinese hearts with her mild temperament and rare inability to climb trees. I love my city, it's also a highly inclusive city.
-
 I'm currently a Ph.D. Candidate at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), 
 supervised by Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10) .
 
@@ -44,3 +42,7 @@ please feel free to reach out to me.
 * ……  
 <!--* [2023.07] &nbsp; [Our paper](https://aclanthology.org/2023.c3nlp-1.7/) was picked up by several Danish media, including [Politiken](https://politiken.dk/debat/klummer/jarlner/art9429359/Samtalerobot-er-et-redskab-for-amerikansk-kulturimperialisme), [Børsen](https://ekstrabladet.dk/nyheder/samfund/chatgpt-fremmer-amerikanske-normer-og-vaerdier/9856186), [Danish TV2](https://www.tv2kosmopol.dk/nyhedsarkiv?date=2023-07-10&clip=634dda2b-8303-4527-aeff-a96418116135), [Ekstra Bladet](https://ekstrabladet.dk/nyheder/samfund/chatgpt-fremmer-amerikanske-normer-og-vaerdier/9856186), [University of Copenhagen](https://di.ku.dk/english/news/2023/chatgpt-promotes-american-norms-and-values/)! -->
 
+# 🎨 Personal
+🏠I grew up in Chengdu, my hometown, a city that blends modernity with traditional culture, boasting over two thousand years of history and renowned as the food capital with delicacies such as hotpot🍲, and traditional Sichuan dishes like mapo tofu🌶️. Chengdu is also home to 🐼He Hua (nicknamed Hua Hua) , captivating Chinese hearts with her mild temperament and rare inability to climb trees. I love my city, it's also a highly inclusive city.
+
+🧘‍♀️When I'm not in research mode, I might be picking up some oil painting skills, practicing yoga, or just chilling with friends, chatting, and snapping some photos.
