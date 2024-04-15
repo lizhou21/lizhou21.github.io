@@ -33,6 +33,7 @@ please feel free to reach out to me.
 
 
 # 🔥 News
+* [2024.04] &nbsp; 🎉🎉 One paper that I involved was accepted by Tansactions of the Association for Computational Linguistics (TACL): [CreoleVal: Multilingual Multitask Benchmarks for Creoles](https://arxiv.org/pdf/2310.19567.pdf).
 * [2024.03] &nbsp; 🤗🥰 I have submitted my Phd thesis! Good luck, Li!
 * [2024.02] &nbsp; 🌐🗺️ We are organizing the [2nd Workshop on Cross-Cultural Considerations in NLP](https://sites.google.com/view/c3nlp/call-for-papers), which is co-located with ACL 2024. The call for papers is out, with deadline April 22.
 * [2023.12] &nbsp; Our paper was accepted by [ICASSP 2024](https://2024.ieeeicassp.org/):  [ MLPs Compass: What is learned when MLPs are combined with PLMs?](https://arxiv.org/abs/2401.01667). See you in Seoul!
