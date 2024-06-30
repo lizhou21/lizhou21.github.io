@@ -30,7 +30,7 @@ Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
 # 2024
 **Beyond Single-Event Extraction: Towards Efficient Document-Level Multi-Event Argument Extraction**   
 Wanlong Liu, *<ins>Li Zhou</ins>*, Dingyi Zeng, Yichen Xiao, Shaohuan Cheng, Chen Zhang, Grandee Lee, Malu Zhang, Wenyu Chen   
-ACL 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
+Findings of ACL 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
 
 **CreoleVal: Multilingual Multitask Benchmarks for Creoles**   
 Heather Lent, Kushal Tatariya, Raj Dabre, Yiyi Chen, Marcell Fekete, Esther Ploeger, *<ins>Li Zhou</ins>*, Hans Erik Heje, Diptesh Kanojia, Paul Belony, Marcel Bollmann, Loïc Grobol, Miryam de Lhoneux, Daniel Hershcovich, Michel DeGraff, Anders Søgaard, Johannes Bjerva   
