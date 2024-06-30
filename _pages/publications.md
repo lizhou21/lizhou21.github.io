@@ -16,6 +16,11 @@ author_profile: true
 {% endfor %}
 
 # Preprints
+
+**FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture**   
+Wenyan Li, Xinyu Zhang, Jiaang Li, Qiwei Peng, Raphael Tang, *<ins>Li Zhou</ins>*, Weijia Zhang, Guimin Hu, Yifei Yuan, Anders Søgaard, Daniel Hershcovich, Desmond Elliott   
+Arxiv 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
+
 **Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge**   
 *<ins>Li Zhou</ins>*, Taelin Karidi, Nicolas Garneau, Yong Cao, Wanlong Liu, Wenyu Chen, Daniel Hershcovich   
 Arxiv 2024. [[Arxiv]](https://arxiv.org/pdf/2404.06833.pdf)
