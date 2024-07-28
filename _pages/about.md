@@ -11,11 +11,8 @@ redirect_from:
 
 Hey! I'm Li Zhou, an NLP enthusiast and explorer🤗. 
 
-I'm currently a Ph.D. Candidate at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), 
-supervised by Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10) .
-
-I visited the [CoAStaL](https://coastalcph.github.io/) NLP group in the University of Copenhagen (2022-2023), 
-where I had the pleasure of being supervised by Prof. [Daniel Hershcovich](https://danielhers.github.io/) and working with the rest of the team.
+I'm currently a Postdoc research fellow at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en), working with [Prof. Haizhou Li](https://colips.org/~eleliha/). I received my PhD degree from [UESTC](https://www.uestc.edu.cn/) in June 2024, supervised by Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10).
+During my PhD journey, I visited the [CoAStaL](https://coastalcph.github.io/) NLP group in the University of Copenhagen (2022-2023), supervised by Prof. [Daniel Hershcovich](https://danielhers.github.io/) and working with the rest of the team.
 
 My research interest focuses on cultural knowledge probing and enhancing, 
 cross-cultural and multi-lingual transfer learning, 
