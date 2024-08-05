@@ -16,7 +16,7 @@ During my PhD journey, I visited the [CoAStaL](https://coastalcph.github.io/) NL
 
 My research interest focuses on cultural knowledge probing and enhancing, 
 cross-cultural and multi-lingual transfer learning, 
-analysis of language models, 
+language models evaluation, 
 relation extraction,
 graph meaning representation of language, 
 and graph neural networks.
