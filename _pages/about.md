@@ -27,6 +27,7 @@ I also love working with different NLP researchers to spark creativity and new p
 If you find my research intriguing or if it fits your project's needs, 
 please feel free to reach out to me.
 
+Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
