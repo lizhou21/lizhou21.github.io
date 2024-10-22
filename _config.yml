@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "🐱Li Zhou"
 title_separator          : "-"
 name                     : &name "Li Zhou"
-description              : "li_zhou@std.uestc.edu.cn"
+description              : "lizhou21@cuhk.edu.cn"
 url                      : "https://lizhou21.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lizhou21/lizhou21.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Li Zhou | 周  莉"
   avatar           : "myphoto.jpg"
   bio              : "Current Postdoc at CUHK-Shenzhen, Previous PhD at UESTC"
-  location         : "Chengdu, Sichuan, China"
+  location         : "Shenzhen, Guangdong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BLWhoYcAAAAJ&hl=zh-CN&oi=ao"
