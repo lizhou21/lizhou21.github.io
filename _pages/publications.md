@@ -27,7 +27,7 @@ Wanlong Liu, Enqi Zhang, *<ins>Li Zhou</ins>*, Dingyi Zeng, Shaohuan Cheng, Chen
 Arxiv 2024. [[Arxiv]](https://arxiv.org/abs/2409.09322)
 
 **Dynamic Training for Handling Textual Label Noise**   
-Shaohuan Cheng, Wenyu Chen, Wanlong Liu, *<ins>Li Zhou</ins>*, Honglin Zhao, Weishan Kong, Hong Qu & Mingsheng Fu   
+Shaohuan Cheng, Wenyu Chen, Wanlong Liu, *<ins>Li Zhou</ins>*, Honglin Zhao, Weishan Kong, Hong Qu, Mingsheng Fu   
 Applied Intelligence 2024. [[Journal]](https://link.springer.com/article/10.1007/s10489-024-05738-x)
 
 **FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture**   
