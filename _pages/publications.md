@@ -15,24 +15,24 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Preprints
+
+
+# 2024
+**Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement**   
+Zihao Cheng, *<ins>Li Zhou</ins>*\#, Feng Jiang, Benyou Wang, Haizhou Li   
+Arxiv 2024. [[Arxiv]](https://arxiv.org/abs/2410.14259)
+
 
 **FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture**   
 Wenyan Li, Xinyu Zhang, Jiaang Li, Qiwei Peng, Raphael Tang, *<ins>Li Zhou</ins>*, Weijia Zhang, Guimin Hu, Yifei Yuan, Anders Søgaard, Daniel Hershcovich, Desmond Elliott   
-Arxiv 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
+EMNLP 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
 
 **Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge**   
 *<ins>Li Zhou</ins>*, Taelin Karidi, Nicolas Garneau, Yong Cao, Wanlong Liu, Wenyu Chen, Daniel Hershcovich   
 Arxiv 2024. [[Arxiv]](https://arxiv.org/pdf/2404.06833.pdf)
 
 
-**Rethinking Relation Classification with Graph Meaning Representations**   
-*<ins>Li Zhou</ins>*, Wenyu Chen, Dingyi Zeng, Malu Zhang, Daniel Hershcovich   
-Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
 
-
-
-# 2024
 **Beyond Single-Event Extraction: Towards Efficient Document-Level Multi-Event Argument Extraction**   
 Wanlong Liu, *<ins>Li Zhou</ins>*, Dingyi Zeng, Yichen Xiao, Shaohuan Cheng, Chen Zhang, Grandee Lee, Malu Zhang, Wenyu Chen   
 Findings of ACL 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
@@ -40,7 +40,6 @@ Findings of ACL 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
 **CreoleVal: Multilingual Multitask Benchmarks for Creoles**   
 Heather Lent, Kushal Tatariya, Raj Dabre, Yiyi Chen, Marcell Fekete, Esther Ploeger, *<ins>Li Zhou</ins>*, Hans Erik Heje, Diptesh Kanojia, Paul Belony, Marcel Bollmann, Loïc Grobol, Miryam de Lhoneux, Daniel Hershcovich, Michel DeGraff, Anders Søgaard, Johannes Bjerva   
 Transactions of the Association for Computational Linguistics (TACL). [[Arxiv]](https://arxiv.org/abs/2310.19567)
-
 
 
 **MLPs Compass: What is learned when MLPs are combined with PLMs?**   
@@ -54,6 +53,10 @@ Transactions of the Association for Computational Linguistics (TACL).[[Arxiv]](h
 
 
 # 2023
+**Rethinking Relation Classification with Graph Meaning Representations**   
+*<ins>Li Zhou</ins>*, Wenyu Chen, Dingyi Zeng, Malu Zhang, Daniel Hershcovich   
+Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
+
 **Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features**   
 *<ins>Li Zhou</ins>*,  Antonia Karamolegkou, Wenyu Chen, Daniel Hershcovich   
 Findings of EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.06458) [[Proceedings]](https://aclanthology.org/2023.findings-emnlp.845/)
