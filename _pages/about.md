@@ -43,7 +43,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 * ……  
-<!--* [2023.10] &nbsp; Two papers were accepted by [EMNLP 2023](https://2023.emnlp.org/): [Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features](https://arxiv.org/abs/2310.06458) (Findings) and [Copyright Violations and Large Language Models]() (Main).
+<!--*[2023.10] &nbsp; Two papers were accepted by [EMNLP 2023](https://2023.emnlp.org/): [Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features](https://arxiv.org/abs/2310.06458) (Findings) and [Copyright Violations and Large Language Models]() (Main).
 
 [2023.08] &nbsp; [Our paper](https://aclanthology.org/2023.c3nlp-1.7/) was picked up by Danish newspaper [Børsen](https://borsen.dk/nyheder/ai/populaer-chatbot-promoverer-amerikanske-vaerdier-og-normer).
 [2024.05] &nbsp; 🖥️🖥️ I began working as a Research Assistant at [Shenzhen Research Institute of Big Data](http://sribd.cn/en), supervised by [Haizhou Li](https://www.colips.org/~eleliha/).
