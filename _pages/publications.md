@@ -22,6 +22,10 @@ author_profile: true
 Zihao Cheng, *<ins>Li Zhou</ins>*\#, Feng Jiang, Benyou Wang, Haizhou Li   
 Arxiv 2024. [[Arxiv]](https://arxiv.org/abs/2410.14259)
 
+**Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge**   
+*<ins>Li Zhou</ins>*, Taelin Karidi, Nicolas Garneau, Yong Cao, Wanlong Liu, Wenyu Chen, Daniel Hershcovich   
+Arxiv 2024. [[Arxiv]](https://arxiv.org/pdf/2404.06833.pdf)
+
 **A Compressive Memory-based Retrieval Approach for Event Argument Extractiont**   
 Wanlong Liu, Enqi Zhang, *<ins>Li Zhou</ins>*, Dingyi Zeng, Shaohuan Cheng, Chen Zhang, Malu Zhang, Wenyu Chen   
 Arxiv 2024. [[Arxiv]](https://arxiv.org/abs/2409.09322)
@@ -33,11 +37,6 @@ Applied Intelligence 2024. [[Journal]](https://link.springer.com/article/10.1007
 **FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture**   
 Wenyan Li, Xinyu Zhang, Jiaang Li, Qiwei Peng, Raphael Tang, *<ins>Li Zhou</ins>*, Weijia Zhang, Guimin Hu, Yifei Yuan, Anders Søgaard, Daniel Hershcovich, Desmond Elliott   
 EMNLP 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
-
-**Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge**   
-*<ins>Li Zhou</ins>*, Taelin Karidi, Nicolas Garneau, Yong Cao, Wanlong Liu, Wenyu Chen, Daniel Hershcovich   
-Arxiv 2024. [[Arxiv]](https://arxiv.org/pdf/2404.06833.pdf)
-
 
 
 **Beyond Single-Event Extraction: Towards Efficient Document-Level Multi-Event Argument Extraction**   
