@@ -31,6 +31,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
+* [2024.11] &nbsp; 🎉🎉 One paper was accepted by [Applied Intelligence](https://link.springer.com/journal/10489) main: [Dynamic training for handling textual label noise](https://link.springer.com/article/10.1007/s10489-024-05738-x).
 * [2024.10] &nbsp; 🎉🎉 One paper was accepted by [EMNLP 2024](https://2024.emnlp.org/) main: [FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture](https://arxiv.org/abs/2406.11030).
 * [2024.08] &nbsp; 🌐🗺️ We are organizing the [2nd Workshop on Cross-Cultural Considerations in NLP](https://sites.google.com/view/c3nlp/call-for-papers), which is co-located with ACL 2024.
 * [2024.06] &nbsp; 🎓🎓 I’ve officially received my Ph.D.! I'll start my Postdoc journey at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en) .
