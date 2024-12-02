@@ -31,7 +31,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
-
+* [2024.12] &nbsp; 🎉🎉 One paper was accepted by [COLING 2025](https://coling2025.org/): [A Compressive Memory-based Retrieval Approach for Event Argument Extraction](https://arxiv.org/abs/2409.09322).
 * [2024.11] &nbsp; 🎉🎉 One paper was accepted by [Applied Intelligence](https://link.springer.com/journal/10489) main: [Dynamic training for handling textual label noise](https://link.springer.com/article/10.1007/s10489-024-05738-x).
 * [2024.10] &nbsp; 🎉🎉 One paper was accepted by [EMNLP 2024](https://2024.emnlp.org/) main: [FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture](https://arxiv.org/abs/2406.11030).
 * [2024.08] &nbsp; 🌐🗺️ We are organizing the [2nd Workshop on Cross-Cultural Considerations in NLP](https://sites.google.com/view/c3nlp/call-for-papers), which is co-located with ACL 2024.
@@ -49,8 +49,7 @@ Email: lizhou21@cuhk.edu.cn
 [2023.08] &nbsp; [Our paper](https://aclanthology.org/2023.c3nlp-1.7/) was picked up by Danish newspaper [Børsen](https://borsen.dk/nyheder/ai/populaer-chatbot-promoverer-amerikanske-vaerdier-og-normer).
 [2024.05] &nbsp; 🖥️🖥️ I began working as a Research Assistant at [Shenzhen Research Institute of Big Data](http://sribd.cn/en), supervised by [Haizhou Li](https://www.colips.org/~eleliha/).
 [2023.07] &nbsp; [Our paper](https://aclanthology.org/2023.c3nlp-1.7/) was picked up by several Danish media, including [Politiken](https://politiken.dk/debat/klummer/jarlner/art9429359/Samtalerobot-er-et-redskab-for-amerikansk-kulturimperialisme), [Børsen](https://ekstrabladet.dk/nyheder/samfund/chatgpt-fremmer-amerikanske-normer-og-vaerdier/9856186), [Danish TV2](https://www.tv2kosmopol.dk/nyhedsarkiv?date=2023-07-10&clip=634dda2b-8303-4527-aeff-a96418116135), [Ekstra Bladet](https://ekstrabladet.dk/nyheder/samfund/chatgpt-fremmer-amerikanske-normer-og-vaerdier/9856186), [University of Copenhagen](https://di.ku.dk/english/news/2023/chatgpt-promotes-american-norms-and-values/)! 
-[2023-07] Our paper was reported by several Danish media, including Politiken, Børsen, Danish TV2, Ekstra Bladet, University of Copenhagen!
-* [2024.12] &nbsp; 🎉🎉 One paper was accepted by [COLING 2025](https://coling2025.org/): [A Compressive Memory-based Retrieval Approach for Event Argument Extraction](https://link.springer.com/article/10.1007/s10489-024-05738-x).-->
+[2023-07] Our paper was reported by several Danish media, including Politiken, Børsen, Danish TV2, Ekstra Bladet, University of Copenhagen!-->
 
 # 🎨 Personal
 🏠I grew up in Chengdu, my hometown, a city that blends modernity with traditional culture, boasting over two thousand years of history and renowned as the food capital with delicacies such as hotpot🍲, and traditional Sichuan dishes like mapo tofu🌶️. Chengdu is also home to 🐼He Hua (nicknamed Hua Hua) , captivating Chinese hearts with her mild temperament and rare inability to climb trees. I love my city, it's also a highly inclusive city.
