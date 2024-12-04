@@ -27,7 +27,7 @@ Arxiv 2024. [[Arxiv]](https://arxiv.org/abs/2410.14259)
 Arxiv 2024. [[Arxiv]](https://arxiv.org/pdf/2404.06833.pdf)
 
 **A Compressive Memory-based Retrieval Approach for Event Argument Extractiont**   
-Wanlong Liu, Enqi Zhang, *<ins>Li Zhou</ins>*, Dingyi Zeng, Shaohuan Cheng, Chen Zhang, Malu Zhang, Wenyu Chen   
+Wanlong Liu, Enqi Zhang, Shaohuan Cheng, *<ins>Li Zhou</ins>*, Dingyi Zeng, Chen Zhang, Malu Zhang, Wenyu Chen   
 COLING 2025. [[Arxiv]](https://arxiv.org/abs/2409.09322)
 
 **Dynamic Training for Handling Textual Label Noise**   
