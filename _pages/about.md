@@ -31,8 +31,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
-* [2024.12] &nbsp; 🌐🗺️ We are orgainzing the [3rd Workshop on Cross-Cultural Considerations in NLP](https://c3nlp.github.io/), which is
-*  co-located with NAACL 2025! CFP is out!
+* [2024.12] &nbsp; 🌐🗺️ We are orgainzing the [3rd Workshop on Cross-Cultural Considerations in NLP](https://c3nlp.github.io/), which is co-located with NAACL 2025! CFP is out!
 * [2024.12] &nbsp; 🎉🎉 One paper was accepted by [COLING 2025](https://coling2025.org/): [A Compressive Memory-based Retrieval Approach for Event Argument Extraction](https://arxiv.org/abs/2409.09322).
 * [2024.11] &nbsp; 🎉🎉 One paper was accepted by [Applied Intelligence](https://link.springer.com/journal/10489): [Dynamic training for handling textual label noise](https://link.springer.com/article/10.1007/s10489-024-05738-x).
 * [2024.10] &nbsp; One paper was accepted by [EMNLP 2024](https://2024.emnlp.org/) main: [FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture](https://arxiv.org/abs/2406.11030).
