@@ -23,7 +23,7 @@ Zihao Cheng\#, *<ins>Li Zhou</ins>*\#\*, Feng Jiang, Benyou Wang, Haizhou Li
 Arxiv 2024. [[Arxiv]](https://arxiv.org/abs/2410.14259)
 
 **Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge**   
-*<ins>Li Zhou</ins>*, Taelin Karidi, Nicolas Garneau, Yong Cao, Wanlong Liu, Wenyu Chen, Daniel Hershcovich   
+*<ins>Li Zhou</ins>*, Taelin Karidi, Nicolas Garneau, Yong Cao, Wanlong Liu, Wenyu Chen, Haizhou Li, Daniel Hershcovich   
 Arxiv 2024. [[Arxiv]](https://arxiv.org/pdf/2404.06833.pdf)
 
 **A Compressive Memory-based Retrieval Approach for Event Argument Extractiont**   
