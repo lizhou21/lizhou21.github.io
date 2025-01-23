@@ -19,7 +19,7 @@ author_profile: true
 
 # 2024
 **Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement**   
-Zihao Cheng, *<ins>Li Zhou</ins>*\#, Feng Jiang, Benyou Wang, Haizhou Li   
+Zihao Cheng\#, *<ins>Li Zhou</ins>*\#\*, Feng Jiang, Benyou Wang, Haizhou Li   
 Arxiv 2024. [[Arxiv]](https://arxiv.org/abs/2410.14259)
 
 **Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge**   
