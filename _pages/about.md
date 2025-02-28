@@ -58,7 +58,15 @@ Email: lizhou21@cuhk.edu.cn
 [2023.07] &nbsp; [Our paper](https://aclanthology.org/2023.c3nlp-1.7/) was picked up by several Danish media, including [Politiken](https://politiken.dk/debat/klummer/jarlner/art9429359/Samtalerobot-er-et-redskab-for-amerikansk-kulturimperialisme), [Børsen](https://ekstrabladet.dk/nyheder/samfund/chatgpt-fremmer-amerikanske-normer-og-vaerdier/9856186), [Danish TV2](https://www.tv2kosmopol.dk/nyhedsarkiv?date=2023-07-10&clip=634dda2b-8303-4527-aeff-a96418116135), [Ekstra Bladet](https://ekstrabladet.dk/nyheder/samfund/chatgpt-fremmer-amerikanske-normer-og-vaerdier/9856186), [University of Copenhagen](https://di.ku.dk/english/news/2023/chatgpt-promotes-american-norms-and-values/)! 
 [2023-07] Our paper was reported by several Danish media, including Politiken, Børsen, Danish TV2, Ekstra Bladet, University of Copenhagen!-->
 
+
+# 📝 Services
+- **Conference Reviewer:** ACL Rolling Reviewer, EMNLP (2023, 2024), NAACL 2024, EACL 2024, WWW 2025, ICASSP (2023, 2024, 2025), IJCNN (2022, 2023, 2024, 2025), IEEE CAI 2024
+- **Journal Reviewer:** Knowledge-Based Systems, Computer Speech & Language, International Journal of Machine Learning and Cybernetics
+IEEE Transactions on Emerging Topics in Computational Intelligence.
+- **Organizer:** the 2nd Workshop on Cross-Cultural Considerations in NLP @ ACL 2024, the 3rd Workshop on Cross-Cultural Considerations in NLP @ NAACL 2025.
+
+<!--
 # 🎨 Personal
 🏠I grew up in Chengdu, my hometown, a city that blends modernity with traditional culture, boasting over two thousand years of history and renowned as the food capital with delicacies such as hotpot🍲, and traditional Sichuan dishes like mapo tofu🌶️. Chengdu is also home to 🐼He Hua (nicknamed Hua Hua) , captivating Chinese hearts with her mild temperament and rare inability to climb trees. I love my city, it's also a highly inclusive city.
 
-🧘‍♀️When I'm not in research mode, I might be picking up some oil painting skills, practicing yoga, or just chilling with friends, chatting, and snapping some photos.
+🧘‍♀️When I'm not in research mode, I might be picking up some oil painting skills, practicing yoga, or just chilling with friends, chatting, and snapping some photos.-->
