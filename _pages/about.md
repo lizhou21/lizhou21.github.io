@@ -63,7 +63,7 @@ Email: lizhou21@cuhk.edu.cn
 - **Conference Reviewer:** ACL Rolling Reviewer, EMNLP (2023, 2024), NAACL 2024, EACL 2024, WWW 2025, ICASSP (2023, 2024, 2025), IJCNN (2022, 2023, 2024, 2025), IEEE CAI 2024
 - **Journal Reviewer:** Knowledge-Based Systems, Computer Speech & Language, International Journal of Machine Learning and Cybernetics
 IEEE Transactions on Emerging Topics in Computational Intelligence.
-- **Organizer:** the 2nd Workshop on Cross-Cultural Considerations in NLP @ ACL 2024, the 3rd Workshop on Cross-Cultural Considerations in NLP @ NAACL 2025.
+- **Organizer:** C3NLP@ACL 2024, C3NLP@NAACL 2025.
 
 <!--
 # 🎨 Personal
