@@ -14,12 +14,14 @@ Hey! I'm Li Zhou, an NLP enthusiast and explorer🤗.
 I'm currently a Postdoc research fellow at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en), working with [Prof. Haizhou Li](https://colips.org/~eleliha/). I received my PhD degree from [UESTC](https://www.uestc.edu.cn/) in June 2024, supervised by Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10).
 During my PhD journey, I visited the [CoAStaL](https://coastalcph.github.io/) NLP group in the University of Copenhagen (2022-2023), supervised by Prof. [Daniel Hershcovich](https://danielhers.github.io/) and working with the rest of the team.
 
-My research interest focuses on cultural knowledge probing and enhancing, 
-cross-cultural and multi-lingual transfer learning, 
-language models evaluation, 
-relation extraction,
-graph meaning representation of language, 
-and graph neural networks.
+My research interest focuses on 
+human-center NLP,
+multilingual and multicultural alignment,
+LLM bias,
+AI Safety,
+semantic representation learning.
+I recently also focus on combining speech technology with LLMs.
+
 
 I enjoy taking on new challenges in NLP. 
 It allows me to learn, grow, and enhance my research abilities. 
