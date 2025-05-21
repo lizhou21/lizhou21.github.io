@@ -22,13 +22,13 @@ AI Safety,
 semantic representation learning.
 I recently also focus on combining speech technology with LLMs.
 
-
+<!--
 I enjoy taking on new challenges in NLP. 
 It allows me to learn, grow, and enhance my research abilities. 
 I also love working with different NLP researchers to spark creativity and new perspectives. 
 If you find my research intriguing or if it fits your project's needs, 
 please feel free to reach out to me.
-
+-->
 Email: lizhou21@cuhk.edu.cn
 
 
