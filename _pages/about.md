@@ -14,13 +14,9 @@ Hey! I'm Li Zhou, an NLP enthusiast and explorer🤗.
 I'm currently a Postdoc research fellow at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en), working with [Prof. Haizhou Li](https://colips.org/~eleliha/). I received my PhD degree from [UESTC](https://www.uestc.edu.cn/) in June 2024, supervised by Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10).
 During my PhD journey, I visited the [CoAStaL](https://coastalcph.github.io/) NLP group in the University of Copenhagen (2022-2023), supervised by Prof. [Daniel Hershcovich](https://danielhers.github.io/) and working with the rest of the team.
 
-My research interest focuses on 
-human-centered NLP,
-multilingual and multicultural alignment,
-LLM bias,
-AI Safety,
-semantic representation learning.
-I recently also focus on combining speech technology with LLMs.
+My recent research focuses on speech-language models, including emotionally intelligent dialogue systems and controllable generation.
+Besides, I also interested in human-centered NLP, cultural consideration in NLP, LLM bias, AI Safety, and semantic representation learning.
+
 
 <!--
 I enjoy taking on new challenges in NLP. 
@@ -37,6 +33,9 @@ Email: lizhou21@cuhk.edu.cn
 * [2025.01] &nbsp; 🎉🎉 One paper was accepted by [NAACL 2025](https://2025.naacl.org/) main: [Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge](https://arxiv.org/abs/2404.06833).
 * [2025.01] &nbsp; 🎉🎉 One paper was accepted by [WWW 2025](https://www2025.thewebconf.org/): [Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement](https://arxiv.org/abs/2410.14259).
 * [2024.12] &nbsp; 🌐🗺️ The [3rd Workshop on Cross-Cultural Considerations in NLP](https://c3nlp.github.io/) is co-located with NAACL 2025! CFP is out!
+* ……
+
+<!--
 * [2024.12] &nbsp; One paper was accepted by [Expert Systems with Applications](https://2025.ieeeicassp.org/): [Document-level relation extraction with structural encoding and entity-pair-level information interaction](https://www.sciencedirect.com/science/article/abs/pii/S095741742402966X).
 * [2024.12] &nbsp; One paper was accepted by [ICASSP 2025](https://2025.ieeeicassp.org/): [Enhancing Document-Level Relation Extraction through Entity-Pair-Level Interaction Modeling]().
 * [2024.12] &nbsp; One paper was accepted by [COLING 2025](https://coling2025.org/): [A Compressive Memory-based Retrieval Approach for Event Argument Extraction](https://arxiv.org/abs/2409.09322).
@@ -45,9 +44,7 @@ Email: lizhou21@cuhk.edu.cn
 * [2024.08] &nbsp; We are organizing the [2nd Workshop on Cross-Cultural Considerations in NLP](https://sites.google.com/view/c3nlp/call-for-papers), which is co-located with ACL 2024.
 * [2024.06] &nbsp; I’ve officially received my Ph.D.! I'll start my Postdoc journey at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en) in August.
 * [2024.05] &nbsp; I passed my Ph.D. defense! Thank you to everyone I encountered during my doctoral journey!
-* ……
-  
-<!--* [2024.05] &nbsp;  One paper was accepted by [ACL 2024](https://2024.aclweb.org/) Findings: [Beyond Single-Event Extraction: Towards Efficient Document-Level Multi-Event Argument Extraction](https://arxiv.org/abs/2405.01884).
+* [2024.05] &nbsp;  One paper was accepted by [ACL 2024](https://2024.aclweb.org/) Findings: [Beyond Single-Event Extraction: Towards Efficient Document-Level Multi-Event Argument Extraction](https://arxiv.org/abs/2405.01884).
 * [2024.04] &nbsp; One paper that I involved was accepted by Tansactions of the Association for Computational Linguistics (TACL): [CreoleVal: Multilingual Multitask Benchmarks for Creoles](https://arxiv.org/pdf/2310.19567.pdf).
 * [2024.03] &nbsp; I have submitted my Phd thesis! Good luck, Li!
 * [2023.12] &nbsp; Our paper was accepted by [ICASSP 2024](https://2024.ieeeicassp.org/):  [ MLPs Compass: What is learned when MLPs are combined with PLMs?](https://arxiv.org/abs/2401.01667). See you in Seoul!
@@ -63,7 +60,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 📝 Services
-- **Conference Reviewer:** ACL Rolling Reviewer, EMNLP (2023, 2024), NAACL 2024, EACL 2024, WWW 2025, ICASSP (2023, 2024, 2025), IJCNN (2022, 2023, 2024, 2025), IEEE CAI 2024, IALP (2024, 2025)
+- **Conference Reviewer:** ACL Rolling Reviewer, ACL 2025, EMNLP (2023, 2024, 205), NAACL (2024, 2025), EACL 2024, WWW 2025, ICASSP (2023, 2024, 2025), IJCNN (2022, 2023, 2024, 2025), IEEE CAI 2024, IALP (2024, 2025)
 - **Journal Reviewer:** Engineering Applications of Artificial Intelligence, Knowledge-Based Systems, Computer Speech & Language, International Journal of Machine Learning and Cybernetics, IEEE Transactions on Emerging Topics in Computational Intelligence, International Journal of Social Robotics.
 - **Organizer:** C3NLP@ACL 2024, C3NLP@NAACL 2025.
 
