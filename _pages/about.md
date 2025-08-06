@@ -15,7 +15,7 @@ I'm currently a Postdoc research fellow at [CUHK-Shenzhen](https://www.cuhk.edu.
 During my PhD journey, I visited the [CoAStaL](https://coastalcph.github.io/) NLP group in the University of Copenhagen (2022-2023), supervised by Prof. [Daniel Hershcovich](https://danielhers.github.io/) and working with the rest of the team.
 
 My recent research focuses on speech-language models, including emotionally intelligent dialogue systems and controllable generation.
-Besides, I also interested in human-centered NLP, cultural consideration in NLP, LLM bias, AI Safety, and semantic representation learning.
+Besides, I am also interested in human-centered NLP, cultural consideration in NLP, LLM bias, AI Safety, and semantic representation learning.
 
 
 <!--
@@ -60,7 +60,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 📝 Services
-- **Conference Reviewer:** ACL Rolling Reviewer, AAAI 2026, ACL 2025, EMNLP (2023, 2024, 205), NAACL (2024, 2025), EACL 2024, WWW 2025, ICASSP (2023, 2024, 2025), IJCNN (2022, 2023, 2024, 2025), IEEE CAI 2024, IALP (2024, 2025)
+- **Conference Reviewer:** ACL Rolling Reviewer, AAAI 2026, ACL 2025, EMNLP (2023, 2024, 2025), NAACL (2024, 2025), EACL 2024, WWW 2025, ICASSP (2023, 2024, 2025), IJCNN (2022, 2023, 2024, 2025), IEEE CAI 2024, IALP (2024, 2025)
 - **Journal Reviewer:** Engineering Applications of Artificial Intelligence, Knowledge-Based Systems, Computer Speech & Language, International Journal of Machine Learning and Cybernetics, IEEE Transactions on Emerging Topics in Computational Intelligence, International Journal of Social Robotics, Acta Psychologica.
 - **Organizer:** C3NLP@ACL 2024, C3NLP@NAACL 2025.
 
