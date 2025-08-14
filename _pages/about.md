@@ -29,7 +29,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
-* [2025.08] &nbsp; 🎉🎉 One paper was accepted by [IEEE Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723155): [Utilizing Contextual Clues and Role Correlations for Enhancing Document-level Event Argument Extraction](). Wanlong is really great! 👍
+* [2025.08] &nbsp; 🎉🎉 One paper was accepted by [IEEE Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723155): [Utilizing Contextual Clues and Role Correlations for Enhancing Document-level Event Argument Extraction](). 
 * [2025.05] &nbsp; 🎉🎉 One paper was accepted by [ACL 2025](https://2025.aclweb.org/) main: [Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles](https://arxiv.org/abs/2502.18968).
 * [2025.01] &nbsp; 🎉🎉 One paper was accepted by [NAACL 2025](https://2025.naacl.org/) main: [Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge](https://arxiv.org/abs/2404.06833).
 * [2025.01] &nbsp; 🎉🎉 One paper was accepted by [WWW 2025](https://www2025.thewebconf.org/): [Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement](https://arxiv.org/abs/2410.14259).
