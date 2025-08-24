@@ -38,16 +38,25 @@ EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2501.00353)
 <ins>Zihao Cheng</ins>\# (master), **Li Zhou**\#\*, Feng Jiang, Benyou Wang, Haizhou Li   
 WWW 2025. [[Arxiv]](https://arxiv.org/abs/2410.14259) [[Proceedings]](https://dl.acm.org/doi/10.1145/3696410.3714770)
 
-# 2024
-
+**Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles**   
+Kuang Wang, Xianfei Li, Shenghao Yang, **Li Zhou**, Feng Jiang, Haizhou Li   
+ACL 2025. [[Arxiv]](https://arxiv.org/abs/2502.18968) [[Proceedings]](https://aclanthology.org/2025.acl-long.1025.pdf)
 
 **Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge**   
 **Li Zhou**, Taelin Karidi, Nicolas Garneau, Yong Cao, Wanlong Liu, Wenyu Chen, Haizhou Li, Daniel Hershcovich   
-Arxiv 2024. [[Arxiv]](https://arxiv.org/pdf/2404.06833.pdf)
+NAACL 2025. [[Arxiv]](https://arxiv.org/pdf/2404.06833.pdf)  [[Proceedings]](https://aclanthology.org/2025.naacl-long.496/)
 
 **A Compressive Memory-based Retrieval Approach for Event Argument Extractiont**   
 Wanlong Liu, Enqi Zhang, Shaohuan Cheng, **Li Zhou**, Dingyi Zeng, Chen Zhang, Malu Zhang, Wenyu Chen   
-COLING 2025. [[Arxiv]](https://arxiv.org/abs/2409.09322)
+COLING 2025. [[Arxiv]](https://arxiv.org/abs/2409.09322)  [[Proceedings]](https://aclanthology.org/2025.coling-main.85.pdf)
+
+
+# 2024
+
+
+
+
+
 
 **Dynamic Training for Handling Textual Label Noise**   
 Shaohuan Cheng, Wenyu Chen, Wanlong Liu, **Li Zhou**, Honglin Zhao, Weishan Kong, Hong Qu, Mingsheng Fu   
