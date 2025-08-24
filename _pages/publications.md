@@ -16,26 +16,26 @@ author_profile: true
 {% endfor %}
 
 <sub>
-\# denotes co‑first authors;    
-\* denotes corresponding author;   
+\* denotes co‑first authors;    
+\# denotes corresponding author;   
 <ins>underlined names</ins> indicate students co‑supervised with Prof. Haizhou Li at CUHK-Shenzhen.
 </sub>
 
 # 2025
 **Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation**   
-**Li Zhou**\#\*, <ins>Lutong Yu</ins>\# (master), <ins>Dongchu Xie</ins> (undergraduate), Shaohuan Cheng, Wenyan Li, Haizhou Li   
+**Li Zhou**\*\#, <ins>Lutong Yu</ins>\* (master), <ins>Dongchu Xie</ins> (undergraduate), Shaohuan Cheng, Wenyan Li, Haizhou Li   
 EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2506.01565)
 
 **From Word to World: Evaluate and Mitigate Culture Bias via Word Association Test**   
-<ins>Xunlian Dai</ins> (visiting undergraduate), **Li Zhou**\*, Benyou Wang, Haizhou Li   
+<ins>Xunlian Dai</ins> (visiting undergraduate), **Li Zhou**\#, Benyou Wang, Haizhou Li   
 EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2505.18562)
 
 **RAG-Instruct: Boosting LLMs with diverse retrieval-augmented instructions**   
-Wanlong Liu\#, Junying Chen\#, Ke Ji, **Li Zhou**, Wenyu Chen, Benyou Wang   
+Wanlong Liu\*, Junying Chen\*, Ke Ji, **Li Zhou**, Wenyu Chen, Benyou Wang   
 EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2501.00353)
 
 **Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement**   
-<ins>Zihao Cheng</ins>\# (master), **Li Zhou**\#\*, Feng Jiang, Benyou Wang, Haizhou Li   
+<ins>Zihao Cheng</ins>\* (master), **Li Zhou**\*\#, Feng Jiang, Benyou Wang, Haizhou Li   
 WWW 2025. [[Arxiv]](https://arxiv.org/abs/2410.14259) [[Proceedings]](https://dl.acm.org/doi/10.1145/3696410.3714770)
 
 **Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles**   
@@ -52,10 +52,6 @@ COLING 2025. [[Arxiv]](https://arxiv.org/abs/2409.09322)  [[Proceedings]](https:
 
 
 # 2024
-
-
-
-
 
 
 **Dynamic Training for Handling Textual Label Noise**   
@@ -87,13 +83,19 @@ Transactions of the Association for Computational Linguistics (TACL).[[Arxiv]](h
 
 
 # 2023
-**Rethinking Relation Classification with Graph Meaning Representations**   
-**Li Zhou**, Wenyu Chen, Dingyi Zeng, Malu Zhang, Daniel Hershcovich   
-Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
+
+
+**DPGNN: Dual-perception graph neural network for representation learning**   
+**Li Zhou**, Wenyu Chen, Dingyi Zeng, Shaohuan Cheng, Wanlong Liu, Malu Zhang, Hong Qu   
+Knowledge-Based Systems [[Journal]](https://www.sciencedirect.com/science/article/pii/S0950705123001272) [[PDF]](https://lizhou21.github.io/files/DPGNN.pdf)
 
 **Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features**   
 **Li Zhou**,  Antonia Karamolegkou, Wenyu Chen, Daniel Hershcovich   
 Findings of EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.06458) [[Proceedings]](https://aclanthology.org/2023.findings-emnlp.845/)
+
+**Rethinking Relation Classification with Graph Meaning Representations**   
+**Li Zhou**, Wenyu Chen, Dingyi Zeng, Malu Zhang, Daniel Hershcovich   
+Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
 
 **Copyright Violations and Large Language Models**   
 Antonia Karamolegkou\*, Jiaang Li\*, **Li Zhou**, Anders Søgaard   
@@ -107,10 +109,6 @@ Cross-Cultural Considerations in NLP Workshop at EACL 2023 [[Proceedings]](https
 Yong Cao, **Li Zhou**, Seolhwa Lee, Laura Cabello Piqueras, Min Chen, Daniel Hershcovich   
 Cross-Cultural Considerations in NLP Workshop at EACL 2023 [[Proceedings]](https://aclanthology.org/2023.c3nlp-1.7/) [[Arxiv]](https://arxiv.org/abs/2303.17466)
 
-**DPGNN: Dual-perception graph neural network for representation learning**   
-**Li Zhou**, Wenyu Chen, Dingyi Zeng, Shaohuan Cheng, Wanlong Liu, Malu Zhang, Hong Qu   
-Knowledge-Based Systems [[Journal]](https://www.sciencedirect.com/science/article/pii/S0950705123001272) [[PDF]](https://lizhou21.github.io/files/DPGNN.pdf)
-
 **Rethinking Random Walk in Graph Representation Learning**   
 Dingyi Zeng, Wenyu Chen, Wanlong Liu, **Li Zhou**, Hong Qu   
 ICASSP 2023 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/10096316/)
@@ -122,7 +120,7 @@ AAAI 2023 [[Proceedings]](https://ojs.aaai.org/index.php/AAAI/article/view/26318
 # 2022
 
 **A simple graph neural network via layer sniffer**   
-Dingyi Zeng\*, *<ins>Li Zhou\*</ins>*, Wanlong Liu, Hong Qu, Wenyu Chen   
+Dingyi Zeng\*, **Li Zhou**\*, Wanlong Liu, Hong Qu, Wenyu Chen   
 ICASSP 2022 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/9746357)
 
 **Document-Level Relation Extraction with Structure Enhanced Transformer Encoder**   
@@ -132,7 +130,7 @@ IJCNN 2022 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/9892647
 # 2020
 
 **A weighted GCN with logical adjacency matrix for relation extraction**   
-*<ins>Li Zhou\*</ins>*, Tingyu Wang*, Hong Qu, Li Huang, Yuguo Liu   
+**Li Zhou**\*, Tingyu Wang*, Hong Qu, Li Huang, Yuguo Liu   
 ECAI 2020 [[Proceedings]](https://ebooks.iospress.nl/doi/10.3233/FAIA200360)
 
 
