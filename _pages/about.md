@@ -85,7 +85,9 @@ Email: lizhou21@cuhk.edu.cn
   - International Journal of Social Robotics
   - Acta Psychologica
   - Computers in Human Behavior.
-- **Organizer:** C3NLP@ACL 2024, C3NLP@NAACL 2025.
+- **Organizer:**
+  - C3NLP@ACL 2024
+  - C3NLP@NAACL 2025.
 
 <!--
 # 🎨 Personal
