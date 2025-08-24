@@ -15,10 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
+<sub>
 \# denotes co‑first authors;    
 \* denotes corresponding author;   
 <ins>underlined names</ins> indicate students co‑supervised with Prof. Haizhou Li at CUHK-Shenzhen.
+</sub>
 
 # 2025
 **Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation**   
