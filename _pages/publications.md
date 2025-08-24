@@ -22,6 +22,14 @@ author_profile: true
 </sub>
 
 # 2025
+**Do We Really Need GNNs with Explicit Structural Modeling? MLPs Suffice for Language Model Representations**   
+**Li Zhou**, <ins>Hao Jiang</ins> (remote independent researcher), Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li   
+Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2506.21682)
+
+**Large language models penetration in scholarly writing and peer review**   
+**Li Zhou**, <ins>Ruijie Zhang</ins> (remote undergraduate), <ins>Xunlian Dai</ins> (visiting undergraduate), Daniel Hershcovich, Haizhou Li   
+Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2502.11193)
+
 **Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation**   
 **Li Zhou**\*\#, <ins>Lutong Yu</ins>\* (master), <ins>Dongchu Xie</ins> (undergraduate), Shaohuan Cheng, Wenyan Li, Haizhou Li   
 EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2506.01565)
