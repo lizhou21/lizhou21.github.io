@@ -18,13 +18,13 @@ My recent research focuses on speech-language models, including emotionally inte
 Besides, I am also interested in human-centered NLP, cultural consideration in NLP, LLM bias, AI Safety, and semantic representation learning.
 
 
-<!--
+
 I enjoy taking on new challenges in NLP. 
 It allows me to learn, grow, and enhance my research abilities. 
 I also love working with different NLP researchers to spark creativity and new perspectives. 
 If you find my research intriguing or if it fits your project's needs, 
 please feel free to reach out to me.
--->
+
 Email: lizhou21@cuhk.edu.cn
 
 
