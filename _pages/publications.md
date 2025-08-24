@@ -23,7 +23,7 @@ author_profile: true
 
 # 2025
 **Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation**   
-**Li Zhou**\#\*, <ins>Lutong Yu</ins>\# (master), <ins>Dongchu Xie</ins>(undergraduate), Shaohuan Cheng, Wenyan Li, Haizhou Li   
+**Li Zhou**\#\*, <ins>Lutong Yu</ins>\# (master), <ins>Dongchu Xie</ins> (undergraduate), Shaohuan Cheng, Wenyan Li, Haizhou Li   
 EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2506.01565)
 
 **From Word to World: Evaluate and Mitigate Culture Bias via Word Association Test**   
@@ -34,11 +34,12 @@ EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2505.18562)
 Wanlong Liu\#, Junying Chen\#, Ke Ji, **Li Zhou**, Wenyu Chen, Benyou Wang   
 EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2501.00353)
 
+**Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement**   
+<ins>Zihao Cheng</ins>\# (master), **Li Zhou**\#\*, Feng Jiang, Benyou Wang, Haizhou Li   
+WWW 2025. [[Arxiv]](https://arxiv.org/abs/2410.14259) [[Proceedings]](https://dl.acm.org/doi/10.1145/3696410.3714770)
 
 # 2024
-**Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement**   
-Zihao Cheng\#, **Li Zhou**\#\*, Feng Jiang, Benyou Wang, Haizhou Li   
-Arxiv 2024. [[Arxiv]](https://arxiv.org/abs/2410.14259)
+
 
 **Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge**   
 **Li Zhou**, Taelin Karidi, Nicolas Garneau, Yong Cao, Wanlong Liu, Wenyu Chen, Haizhou Li, Daniel Hershcovich   
