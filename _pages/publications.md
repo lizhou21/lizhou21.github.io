@@ -16,12 +16,22 @@ author_profile: true
 {% endfor %}
 
 
-\# denotes co‑first authors; \* denotes corresponding author; <ins>underlined names</ins> indicate students co‑supervised with Prof. Haizhou Li at CUHK-Shenzhen.
+\# denotes co‑first authors;    
+\* denotes corresponding author;   
+<ins>underlined names</ins> indicate students co‑supervised with Prof. Haizhou Li at CUHK-Shenzhen.
 
 # 2025
 **Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation**   
-**Li Zhou**\#\*, <ins>Lutong Yu</ins>\# (master), <ins>Dongchu Xie</ins>(undergraduate), Shaohuan Cheng, Wenyan Li, Haizhou Li
+**Li Zhou**\#\*, <ins>Lutong Yu</ins>\# (master), <ins>Dongchu Xie</ins>(undergraduate), Shaohuan Cheng, Wenyan Li, Haizhou Li   
+EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2506.01565)
 
+**From Word to World: Evaluate and Mitigate Culture Bias via Word Association Test**   
+<ins>Xunlian Dai</ins> (visiting undergraduate), **Li Zhou**\*, Benyou Wang, Haizhou Li   
+EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2505.18562)
+
+**RAG-Instruct: Boosting LLMs with diverse retrieval-augmented instructions**   
+Wanlong Liu\#, Junying Chen\#, Ke Ji, **Li Zhou**, Wenyu Chen, Benyou Wang   
+EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2501.00353)
 
 
 # 2024
