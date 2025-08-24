@@ -64,7 +64,7 @@ Email: lizhou21@cuhk.edu.cn
 
 # 📝 Services
 - **Conference Reviewer:** 
-  -   <small>ACL Rolling Reviewer</small>
+  -   ACL Rolling Reviewer
   -   AAAI 2026
   -   ACL 2025
   -   EMNLP (2023, 2024, 2025)
