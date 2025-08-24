@@ -18,6 +18,12 @@ author_profile: true
 
 \# denotes co‑first authors; \* denotes corresponding author; <ins>underlined names</ins> indicate students co‑supervised with Prof. Haizhou Li at CUHK-Shenzhen.
 
+# 2025
+**Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation**   
+**Li Zhou**\#\*, <ins>Lutong Yu</ins>\# (master), <ins>Dongchu Xie</ins>(undergraduate), Shaohuan Cheng, Wenyan Li, Haizhou Li
+
+
+
 # 2024
 **Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement**   
 Zihao Cheng\#, *<ins>Li Zhou</ins>*\#\*, Feng Jiang, Benyou Wang, Haizhou Li   
