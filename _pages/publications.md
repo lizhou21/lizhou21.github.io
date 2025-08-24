@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %}
 
 
+\# denotes co‑first authors; \* denotes corresponding author; <ins>underlined names</ins> indicate students co‑supervised with Prof. Haizhou Li at CUHK-Shenzhen.
 
 # 2024
 **Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement**   
