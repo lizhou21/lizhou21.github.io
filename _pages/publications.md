@@ -58,9 +58,28 @@ NAACL 2025. [[Arxiv]](https://arxiv.org/pdf/2404.06833.pdf)  [[Proceedings]](htt
 Wanlong Liu, Enqi Zhang, Shaohuan Cheng, **Li Zhou**, Dingyi Zeng, Chen Zhang, Malu Zhang, Wenyu Chen   
 COLING 2025. [[Arxiv]](https://arxiv.org/abs/2409.09322)  [[Proceedings]](https://aclanthology.org/2025.coling-main.85.pdf)
 
+**Enhancing Document-Level Relation Extraction through Entity-Pair-Level Interaction Modeling**   
+Wanlong Liu, Dingyi Zeng, **Li Zhou**, Yichen Xiao, Malu Zhang, Wenyu Chen   
+ICASSP 2025. [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/10887549/)
+
+**Document-level relation extraction with structural encoding and entity-pair-level information interaction**   
+Wanlong Liu, Yichen Xiao, Shaohuan Cheng, Dingyi Zeng, **Li Zhou**, Weishan Kong, Malu Zhang, Wenyu Chen   
+Expert Systems with Applications, 2025.  [[Journal]](https://www.sciencedirect.com/science/article/pii/S095741742402966X)
+
 
 # 2024
 
+**MLPs Compass: What is learned when MLPs are combined with PLMs?**   
+**Li Zhou**, Wenyu Chen, Yong Cao, Dingyi Zeng, Wanlong Liu, Hong Qu.  
+ICASSP 2024. [[Arxiv]](https://arxiv.org/abs/2401.01667) [[Proceedings]](https://ieeexplore.ieee.org/document/10447714)
+
+**Rethinking Relation Classification with Graph Meaning Representations**   
+**Li Zhou**, Wenyu Chen, Dingyi Zeng, Malu Zhang, Daniel Hershcovich   
+Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
+
+**Beyond Single-Event Extraction: Towards Efficient Document-Level Multi-Event Argument Extraction**   
+Wanlong Liu, **Li Zhou**, Dingyi Zeng, Yichen Xiao, Shaohuan Cheng, Chen Zhang, Grandee Lee, Malu Zhang, Wenyu Chen   
+Findings of ACL 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
 
 **Dynamic Training for Handling Textual Label Noise**   
 Shaohuan Cheng, Wenyu Chen, Wanlong Liu, **Li Zhou**, Honglin Zhao, Weishan Kong, Hong Qu, Mingsheng Fu   
@@ -70,20 +89,9 @@ Applied Intelligence 2024. [[Journal]](https://link.springer.com/article/10.1007
 Wenyan Li, Xinyu Zhang, Jiaang Li, Qiwei Peng, Raphael Tang, **Li Zhou**, Weijia Zhang, Guimin Hu, Yifei Yuan, Anders Søgaard, Daniel Hershcovich, Desmond Elliott   
 EMNLP 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
 
-
-**Beyond Single-Event Extraction: Towards Efficient Document-Level Multi-Event Argument Extraction**   
-Wanlong Liu, **Li Zhou**, Dingyi Zeng, Yichen Xiao, Shaohuan Cheng, Chen Zhang, Grandee Lee, Malu Zhang, Wenyu Chen   
-Findings of ACL 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
-
 **CreoleVal: Multilingual Multitask Benchmarks for Creoles**   
 Heather Lent, Kushal Tatariya, Raj Dabre, Yiyi Chen, Marcell Fekete, Esther Ploeger, **Li Zhou**, Hans Erik Heje, Diptesh Kanojia, Paul Belony, Marcel Bollmann, Loïc Grobol, Miryam de Lhoneux, Daniel Hershcovich, Michel DeGraff, Anders Søgaard, Johannes Bjerva   
 Transactions of the Association for Computational Linguistics (TACL). [[Arxiv]](https://arxiv.org/abs/2310.19567)
-
-
-**MLPs Compass: What is learned when MLPs are combined with PLMs?**   
-**Li Zhou**, Wenyu Chen, Yong Cao, Dingyi Zeng, Wanlong Liu, Hong Qu.  
-ICASSP 2024. [[Arxiv]](https://arxiv.org/abs/2401.01667) [[Proceedings]](https://ieeexplore.ieee.org/document/10447714)
-
 
 **Cultural Adaptation of Recipes**   
 Yong Cao\*, Yova Kementchedjhieva\*, Ruixiang Cui, Antonia Karamolegkou, **Li Zhou**, Megan Dare, Lucia Donatelli, Daniel Hershcovich   
@@ -100,10 +108,6 @@ Knowledge-Based Systems [[Journal]](https://www.sciencedirect.com/science/articl
 **Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features**   
 **Li Zhou**,  Antonia Karamolegkou, Wenyu Chen, Daniel Hershcovich   
 Findings of EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.06458) [[Proceedings]](https://aclanthology.org/2023.findings-emnlp.845/)
-
-**Rethinking Relation Classification with Graph Meaning Representations**   
-**Li Zhou**, Wenyu Chen, Dingyi Zeng, Malu Zhang, Daniel Hershcovich   
-Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)
 
 **Copyright Violations and Large Language Models**   
 Antonia Karamolegkou\*, Jiaang Li\*, **Li Zhou**, Anders Søgaard   
