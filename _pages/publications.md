@@ -62,6 +62,10 @@ COLING 2025. [[Arxiv]](https://arxiv.org/abs/2409.09322)  [[Proceedings]](https:
 Wanlong Liu, Dingyi Zeng, **Li Zhou**, Yichen Xiao, Malu Zhang, Wenyu Chen   
 ICASSP 2025. [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/10887549/)
 
+**Utilizing Contextual Clues and Role Correlations for Enhancing Document-level Event Argument Extraction**   
+Wanlong Liu, Dingyi Zeng, ****Li Zhou****, Wenyu Chen, Malu Zhang, Dan Liu, Xiaodong He, Haizhou Li   
+[[Journal]](https://ieeexplore.ieee.org/document/11145944/authors#authors)
+
 **Document-level relation extraction with structural encoding and entity-pair-level information interaction**   
 Wanlong Liu, Yichen Xiao, Shaohuan Cheng, Dingyi Zeng, **Li Zhou**, Weishan Kong, Malu Zhang, Wenyu Chen   
 Expert Systems with Applications, 2025.  [[Journal]](https://www.sciencedirect.com/science/article/pii/S095741742402966X)
