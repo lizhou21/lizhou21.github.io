@@ -23,7 +23,7 @@ author_profile: true
 
 # 2025
 **Do We Really Need GNNs with Explicit Structural Modeling? MLPs Suffice for Language Model Representations**   
-**Li Zhou**, <ins>Hao Jiang</ins>, Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li   
+**Li Zhou**, Hao Jiang, Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li   
 Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2506.21682)
 
 **Large language models penetration in scholarly writing and peer review**   
