@@ -64,7 +64,7 @@ ICASSP 2025. [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/10887
 
 **Utilizing Contextual Clues and Role Correlations for Enhancing Document-level Event Argument Extraction**   
 Wanlong Liu, Dingyi Zeng, **Li Zhou**, Wenyu Chen, Malu Zhang, Dan Liu, Xiaodong He, Haizhou Li   
-EEE Transactions on Audio, Speech and Language Processing, 2025. [[Journal]](https://ieeexplore.ieee.org/document/11145944/authors#authors)
+IEEE Transactions on Audio, Speech and Language Processing, 2025. [[Journal]](https://ieeexplore.ieee.org/document/11145944/authors#authors)
 
 **Document-level relation extraction with structural encoding and entity-pair-level information interaction**   
 Wanlong Liu, Yichen Xiao, Shaohuan Cheng, Dingyi Zeng, **Li Zhou**, Weishan Kong, Malu Zhang, Wenyu Chen   
