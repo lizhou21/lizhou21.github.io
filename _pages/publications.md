@@ -32,11 +32,11 @@ Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2502.11193)
 
 **Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation**   
 **Li Zhou**\*\#, <ins>Lutong Yu</ins>\* (master), <ins>Dongchu Xie</ins> (undergraduate), Shaohuan Cheng, Wenyan Li, Haizhou Li   
-EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2506.01565)
+EMNLP 2025 main (oral). [[Arxiv]](https://arxiv.org/abs/2506.01565)
 
 **From Word to World: Evaluate and Mitigate Culture Bias via Word Association Test**   
 <ins>Xunlian Dai</ins> (visiting undergraduate), **Li Zhou**\#, Benyou Wang, Haizhou Li   
-EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2505.18562)
+EMNLP 2025 main (oral). [[Arxiv]](https://arxiv.org/abs/2505.18562)
 
 **RAG-Instruct: Boosting LLMs with diverse retrieval-augmented instructions**   
 Wanlong Liu\*, Junying Chen\*, Ke Ji, **Li Zhou**, Wenyu Chen, Benyou Wang   
