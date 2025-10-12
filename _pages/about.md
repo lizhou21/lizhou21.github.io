@@ -30,6 +30,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
+* [2025.08] &nbsp; 😀😊 I was invited to serve as an Area Chair for ACL Rolling Review starting this October.
 * [2025.08] &nbsp; 🎉🎉 Three papers were accepted by [EMNLP2025](https://2025.emnlp.org/) main: 1) [Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation](https://arxiv.org/pdf/2506.01565); 2) [From Word to World: Evaluate and Mitigate Culture Bias in LLMs via Word Association Test](https://arxiv.org/pdf/2505.18562v1); 3) [RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented Instructions](https://arxiv.org/pdf/2501.00353)
 * [2025.08] &nbsp; 🎉🎉 One paper was accepted by [IEEE Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723155): [Utilizing Contextual Clues and Role Correlations for Enhancing Document-level Event Argument Extraction](). 
 * [2025.05] &nbsp; 🎉🎉 One paper was accepted by [ACL 2025](https://2025.aclweb.org/) main: [Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles](https://arxiv.org/abs/2502.18968).
