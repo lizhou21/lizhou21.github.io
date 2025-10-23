@@ -30,16 +30,17 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
+* [2025.10] &nbsp; 🌐🗺️ The 4th Workshop on Cross-Cultural Considerations in NLP ([C3NLP](https://c3nlp.github.io/)) is accepted by ACL 2026.
 * [2025.10] &nbsp; 😀😊 I was invited to serve as an Area Chair for ACL Rolling Review starting this October.
 * [2025.08] &nbsp; 🎉🎉 Three papers were accepted by [EMNLP2025](https://2025.emnlp.org/) main: 1) [Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation](https://arxiv.org/pdf/2506.01565); 2) [From Word to World: Evaluate and Mitigate Culture Bias in LLMs via Word Association Test](https://arxiv.org/pdf/2505.18562v1); 3) [RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented Instructions](https://arxiv.org/pdf/2501.00353), see you in Suzhou!
 * [2025.08] &nbsp; 🎉🎉 One paper was accepted by [IEEE Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723155): [Utilizing Contextual Clues and Role Correlations for Enhancing Document-level Event Argument Extraction](). 
 * [2025.05] &nbsp; One paper was accepted by [ACL 2025](https://2025.aclweb.org/) main: [Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles](https://arxiv.org/abs/2502.18968).
 * [2025.01] &nbsp; One paper was accepted by [NAACL 2025](https://2025.naacl.org/) main: [Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge](https://arxiv.org/abs/2404.06833).
 * [2025.01] &nbsp; One paper was accepted by [WWW 2025](https://www2025.thewebconf.org/): [Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement](https://arxiv.org/abs/2410.14259).
-* [2024.12] &nbsp; 🌐🗺️ The [3rd Workshop on Cross-Cultural Considerations in NLP](https://c3nlp.github.io/) is co-located with NAACL 2025! CFP is out!
 * ……
 
 <!--
+* [2024.12] &nbsp; 🌐🗺️ The [3rd Workshop on Cross-Cultural Considerations in NLP](https://c3nlp.github.io/) is co-located with NAACL 2025! CFP is out!
 * [2024.12] &nbsp; One paper was accepted by [Expert Systems with Applications](https://2025.ieeeicassp.org/): [Document-level relation extraction with structural encoding and entity-pair-level information interaction](https://www.sciencedirect.com/science/article/abs/pii/S095741742402966X).
 * [2024.12] &nbsp; One paper was accepted by [ICASSP 2025](https://2025.ieeeicassp.org/): [Enhancing Document-Level Relation Extraction through Entity-Pair-Level Interaction Modeling]().
 * [2024.12] &nbsp; One paper was accepted by [COLING 2025](https://coling2025.org/): [A Compressive Memory-based Retrieval Approach for Event Argument Extraction](https://arxiv.org/abs/2409.09322).
