@@ -18,18 +18,19 @@ author_profile: true
 <sub>
 \* denotes co‑first authors;    
 \# denotes corresponding author;   
-<ins>underlined names</ins> indicate students co‑supervised with Prof. Haizhou Li at CUHK-Shenzhen.
+<ins>underlined names</ins> indicate students co‑supervised with Prof. Haizhou Li at CUHK-Shenzhen.   
 <span style="text-decoration: underline double;">Double‑underlined names</span> represent students co‑supervised with Prof. Benyou Wang at CUHK-Shenzhen.
 </sub>
 
 # 2025
+**EchoMind: An Interrelated Multi-Level Benchmark for Evaluating Empathetic Speech Language Models**   
+**Li Zhou**, <ins>Lutong Yu</ins> (master), <span style="text-decoration: underline double;">You Lyu</span> (research assistant), <ins>Yihang Lin</ins> (master), Zefeng Zhao, Junyi Ao, Yuhao Zhang, Benyou Wang, Haizhou Li   
+Arxiv 2025. [[Arxiv]]()
+
 **Do We Really Need GNNs with Explicit Structural Modeling? MLPs Suffice for Language Model Representations**   
-**Li Zhou**, <ins>Hao Jiang</ins> (research assistant), Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li   
+**Li Zhou**, <ins>Hao Jiang</ins> (research assistant), Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li     
 Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2506.21682)
 
-**Large language models penetration in scholarly writing and peer review**   
-**Li Zhou**, <ins>Ruijie Zhang</ins> (remote undergraduate), <ins>Xunlian Dai</ins> (visiting undergraduate), Daniel Hershcovich, Haizhou Li   
-Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2502.11193)
 
 **Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation**   
 **Li Zhou**\*\#, <ins>Lutong Yu</ins>\* (master), <ins>Dongchu Xie</ins> (undergraduate), Shaohuan Cheng, Wenyan Li, Haizhou Li   
@@ -42,6 +43,10 @@ EMNLP 2025 main (oral). [[Arxiv]](https://arxiv.org/abs/2505.18562)
 **RAG-Instruct: Boosting LLMs with diverse retrieval-augmented instructions**   
 Wanlong Liu\*, Junying Chen\*, Ke Ji, **Li Zhou**, Wenyu Chen, Benyou Wang   
 EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2501.00353)
+
+**Large language models penetration in scholarly writing and peer review**   
+**Li Zhou**, <ins>Ruijie Zhang</ins> (remote undergraduate), <ins>Xunlian Dai</ins> (visiting undergraduate), Daniel Hershcovich, Haizhou Li   
+Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2502.11193)
 
 **Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement**   
 <ins>Zihao Cheng</ins>\* (master), **Li Zhou**\*\#, Feng Jiang, Benyou Wang, Haizhou Li   
