@@ -19,6 +19,7 @@ author_profile: true
 \* denotes co‑first authors;    
 \# denotes corresponding author;   
 <ins>underlined names</ins> indicate students co‑supervised with Prof. Haizhou Li at CUHK-Shenzhen.
+<span style="text-decoration: underline double;">Double‑underlined names</span> represent students co‑supervised with Prof. Benyou Wang at CUHK-Shenzhen.
 </sub>
 
 # 2025
