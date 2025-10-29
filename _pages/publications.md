@@ -25,20 +25,21 @@ author_profile: true
 # 2025
 **EchoMind: An Interrelated Multi-Level Benchmark for Evaluating Empathetic Speech Language Models**   
 **Li Zhou**, <ins>Lutong Yu</ins> (master), <span style="text-decoration: underline double;">You Lyu</span> (research assistant), <ins>Yihang Lin</ins> (master), Zefeng Zhao, Junyi Ao, Yuhao Zhang, Benyou Wang, Haizhou Li   
-Arxiv 2025. [[Arxiv]]()
+Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2510.22758v1)
 
 **Do We Really Need GNNs with Explicit Structural Modeling? MLPs Suffice for Language Model Representations**   
 **Li Zhou**, <ins>Hao Jiang</ins> (research assistant), Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li     
 Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2506.21682)
 
 
+**From Word to World: Evaluate and Mitigate Culture Bias in LLMs via Word Association Test**   
+<ins>Xunlian Dai</ins> (visiting undergraduate), **Li Zhou**\#, Benyou Wang, Haizhou Li   
+EMNLP 2025 main (oral). [[Arxiv]](https://arxiv.org/abs/2505.18562)
+
 **Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation**   
 **Li Zhou**\*\#, <ins>Lutong Yu</ins>\* (master), <ins>Dongchu Xie</ins> (undergraduate), Shaohuan Cheng, Wenyan Li, Haizhou Li   
 EMNLP 2025 main (oral). [[Arxiv]](https://arxiv.org/abs/2506.01565)
 
-**From Word to World: Evaluate and Mitigate Culture Bias in LLMs via Word Association Test**   
-<ins>Xunlian Dai</ins> (visiting undergraduate), **Li Zhou**\#, Benyou Wang, Haizhou Li   
-EMNLP 2025 main (oral). [[Arxiv]](https://arxiv.org/abs/2505.18562)
 
 **RAG-Instruct: Boosting LLMs with diverse retrieval-augmented instructions**   
 Wanlong Liu\*, Junying Chen\*, Ke Ji, **Li Zhou**, Wenyu Chen, Benyou Wang   
