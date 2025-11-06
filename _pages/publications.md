@@ -33,7 +33,7 @@ Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2506.21682)
 
 
 **From Word to World: Evaluate and Mitigate Culture Bias in LLMs via Word Association Test**   
-<ins>Xunlian Dai</ins> (visiting undergraduate), **Li Zhou**\#, Benyou Wang, Haizhou Li   
+<ins>Xunlian Dai</ins> (visiting undergraduate, 2024.12-2025.05), **Li Zhou**\#, Benyou Wang, Haizhou Li   
 EMNLP 2025 main (oral). [[Arxiv]](https://arxiv.org/abs/2505.18562)
 
 **Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation**   
@@ -50,7 +50,7 @@ EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2501.00353)
 Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2502.11193)
 
 **Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement**   
-<ins>Zihao Cheng</ins>\* (master), **Li Zhou**\*\#, Feng Jiang, Benyou Wang, Haizhou Li   
+<ins>Zihao Cheng</ins>\* (master, 2024.06-2024.10), **Li Zhou**\*\#, Feng Jiang, Benyou Wang, Haizhou Li   
 WWW 2025. [[Arxiv]](https://arxiv.org/abs/2410.14259) [[Proceedings]](https://dl.acm.org/doi/10.1145/3696410.3714770)
 
 **Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles**   
