@@ -65,18 +65,19 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 📝 Services
-- **Conference Reviewer:** 
-  -   ACL Rolling Reviewer, ACL 2025, EMNLP (2023, 2024, 2025), NAACL (2024, 2025), EACL 2024
+- **Conference Reviewer:**
+  -   Area chair for ACL Rolling Review: EACL 2026
+  -   Reviewer for ACL Rolling Review: ACL 2025, EMNLP (2023, 2024, 2025), NAACL (2024, 2025), EACL 2024
   -   ICASSP (2023, 2024, 2025, 2026), IJCNN (2022, 2023, 2024, 2025), IALP (2024, 2025)
   -   ICLR 2026, AAAI 2026, WWW 2025, IEEE CAI 2024
 - **Journal Reviewer:**   
   - Engineering Applications of Artificial Intelligence, Knowledge-Based Systems, Information Fusion
   - Computer Speech & Language, International Journal of Machine Learning and Cybernetics
   - IEEE Transactions on Emerging Topics in Computational Intelligence, International Journal of Social Robotics
-  - Acta Psychologica, Computers in Human Behavior.
-  -  
+  - Neurocomputing, Acta Psychologica, Computers in Human Behavior.
+
 - **Organizer:**   
-  - C3NLP@ACL 2024
+  - C3NLP@ACL 2024.
   - C3NLP@NAACL 2025.
   - C3NLP@ACL 2026. 
 
