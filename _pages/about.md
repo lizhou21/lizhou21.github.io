@@ -66,7 +66,7 @@ Email: lizhou21@cuhk.edu.cn
 
 # 📝 Services
 - **Conference Reviewer:**
-  -   Area chair for ACL Rolling Review: EACL 2026
+  -   Area Chair, ACL Rolling Review (ARR), starting October 2025: EACL 2026
   -   Reviewer for ACL Rolling Review: ACL 2025, EMNLP (2023, 2024, 2025), NAACL (2024, 2025), EACL 2024
   -   ICASSP (2023, 2024, 2025, 2026), IJCNN (2022, 2023, 2024, 2025), IALP (2024, 2025)
   -   ICLR 2026, AAAI 2026, WWW 2025, IEEE CAI 2024
