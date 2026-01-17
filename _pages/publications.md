@@ -22,6 +22,14 @@ author_profile: true
 <span style="text-decoration: underline double;">Double‑underlined names</span> represent students co‑supervised with Prof. Benyou Wang at CUHK-Shenzhen.
 </sub>
 
+
+# 2026
+**EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**   
+**Li Zhou**\*, <ins>Hao Jiang</ins>\* (research assistant, 2025.01-2025.09), Junjie Li, Tianrui Wang, Haizhou Li   
+ICASSP 2026   
+
+
+
 # 2025
 **EchoMind: An Interrelated Multi-Level Benchmark for Evaluating Empathetic Speech Language Models**   
 **Li Zhou**, <ins>Lutong Yu</ins> (master), <span style="text-decoration: underline double;">You Lyu</span> (research assistant, 2025.06-2025.09), <ins>Yihang Lin</ins> (master), Zefeng Zhao, Junyi Ao, Yuhao Zhang, Benyou Wang, Haizhou Li   
