@@ -35,9 +35,7 @@ ICASSP 2026
 **Li Zhou**, <ins>Lutong Yu</ins> (master), <span style="text-decoration: underline double;">You Lyu</span> (research assistant, 2025.06-2025.09), <ins>Yihang Lin</ins> (master), Zefeng Zhao, Junyi Ao, Yuhao Zhang, Benyou Wang, Haizhou Li   
 Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2510.22758v1)
 
-**Do We Really Need GNNs with Explicit Structural Modeling? MLPs Suffice for Language Model Representations**   
-**Li Zhou**, <ins>Hao Jiang</ins> (research assistant, 2025.01-2025.09), Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li     
-Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2506.21682)
+
 
 
 **From Word to World: Evaluate and Mitigate Culture Bias in LLMs via Word Association Test**   
@@ -52,6 +50,10 @@ EMNLP 2025 main (oral). [[Arxiv]](https://arxiv.org/abs/2506.01565)
 **RAG-Instruct: Boosting LLMs with diverse retrieval-augmented instructions**   
 Wanlong Liu\*, Junying Chen\*, Ke Ji, **Li Zhou**, Wenyu Chen, Benyou Wang   
 EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2501.00353)
+
+**Do We Really Need GNNs with Explicit Structural Modeling? MLPs Suffice for Language Model Representations**   
+**Li Zhou**, <ins>Hao Jiang</ins> (research assistant, 2025.01-2025.09), Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li     
+Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2506.21682)
 
 **Large language models penetration in scholarly writing and peer review**   
 **Li Zhou**, <ins>Ruijie Zhang</ins> (remote undergraduate), <ins>Xunlian Dai</ins> (visiting undergraduate), Daniel Hershcovich, Haizhou Li   
