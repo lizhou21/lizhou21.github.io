@@ -36,7 +36,7 @@ ICASSP 2026
 Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2510.22758v1)
 
 **Do We Really Need GNNs with Explicit Structural Modeling? MLPs Suffice for Language Model Representations**   
-**Li Zhou**, <ins>Hao Jiang</ins> (research assistant), Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li     
+**Li Zhou**, <ins>Hao Jiang</ins> (research assistant, 2025.01-2025.09), Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li     
 Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2506.21682)
 
 
