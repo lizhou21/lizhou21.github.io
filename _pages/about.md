@@ -30,7 +30,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
-* [2026.01] &nbsp; 🎉🎉 One paper was accepted by ICASSP 2026! 😀😀I’m super happy about this work, it’s my first research work in the speech domain.
+* [2026.01] &nbsp; 🎉🎉 One paper on emotion-aware speech synthesis was accepted by ICASSP 2026! 😀😀I’m super happy about this work, it’s my first research work in the speech domain. Preprint coming soon.
 * [2025.10] &nbsp; 🌐🗺️ The 4th Workshop on Cross-Cultural Considerations in NLP ([C3NLP](https://c3nlp.github.io/)) is accepted by ACL 2026.
 * [2025.10] &nbsp; 😀😊 I was invited to serve as an Area Chair for ACL Rolling Review starting this October.
 * [2025.08] &nbsp; 🎉🎉 Three papers were accepted by [EMNLP2025](https://2025.emnlp.org/) main: 1) [Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation](https://arxiv.org/pdf/2506.01565); 2) [From Word to World: Evaluate and Mitigate Culture Bias in LLMs via Word Association Test](https://arxiv.org/pdf/2505.18562v1); 3) [RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented Instructions](https://arxiv.org/pdf/2501.00353), see you in Suzhou!
