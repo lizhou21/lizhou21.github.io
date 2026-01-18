@@ -25,7 +25,7 @@ author_profile: true
 
 # 2026
 **EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**   
-**Li Zhou**\*, <ins>Hao Jiang</ins>\* (research assistant, 2025.01-2025.09), Junjie Li, Tianrui Wang, Haizhou Li   
+**Li Zhou**\*, <ins>Hao Jiang</ins>\* (remote research assistant, 2025.01-2025.09), Junjie Li, Tianrui Wang, Haizhou Li   
 ICASSP 2026   
 
 
@@ -52,7 +52,7 @@ Wanlong Liu\*, Junying Chen\*, Ke Ji, **Li Zhou**, Wenyu Chen, Benyou Wang
 EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2501.00353)
 
 **Do We Really Need GNNs with Explicit Structural Modeling? MLPs Suffice for Language Model Representations**   
-**Li Zhou**, <ins>Hao Jiang</ins> (research assistant, 2025.01-2025.09), Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li     
+**Li Zhou**, <ins>Hao Jiang</ins> (remote research assistant, 2025.01-2025.09), Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li     
 Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2506.21682)
 
 **Large language models penetration in scholarly writing and peer review**   
