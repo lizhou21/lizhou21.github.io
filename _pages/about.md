@@ -30,7 +30,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
-* [2026.01] &nbsp; 🎉🎉 Our paper [EchoMind](hlt-cuhksz.github.io/EchoMind/) was accepted by [ICLR 2026](https://iclr.cc/)! Big thanks to all my wonderful co-authors!💓💓
+* [2026.01] &nbsp; 🎉🎉 Our work [EchoMind](hlt-cuhksz.github.io/EchoMind/) was accepted by [ICLR 2026](https://iclr.cc/)! Big thanks to all my wonderful co-authors!💓💓
 * [2026.01] &nbsp; 🎉🎉 One paper on emotion-aware speech synthesis was accepted by ICASSP 2026! 😀😀I’m super happy about this work, it’s my first research work in the speech domain. Preprint coming soon.
 * [2025.10] &nbsp; 🌐🗺️ The 4th Workshop on Cross-Cultural Considerations in NLP ([C3NLP](https://c3nlp.github.io/)) is accepted by ACL 2026.
 * [2025.10] &nbsp; 😀😊 I was invited to serve as an Area Chair for ACL Rolling Review starting this October.
