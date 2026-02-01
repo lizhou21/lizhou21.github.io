@@ -27,6 +27,9 @@ If you find my research intriguing or if it fits your project's needs,
 please feel free to reach out to me.
 
 Email: lizhou21@cuhk.edu.cn
+<p align="left">
+  <img src="1_1.png" width="300"/>
+</p>
 
 
 # 🔥 News
