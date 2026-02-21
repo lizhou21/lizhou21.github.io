@@ -24,6 +24,11 @@ author_profile: true
 
 
 # 2026
+
+**EchoMind: An Interrelated Multi-Level Benchmark for Evaluating Empathetic Speech Language Models**   
+**Li Zhou**, <ins>Lutong Yu</ins> (master), <span style="text-decoration: underline double;">You Lyu</span> (research assistant, 2025.06-2025.09), <ins>Yihang Lin</ins> (master), Zefeng Zhao, Junyi Ao, Yuhao Zhang, Benyou Wang, Haizhou Li   
+ICLR 2026. [[Arxiv]](https://arxiv.org/abs/2510.22758v1)
+
 **EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**   
 **Li Zhou**\*, <ins>Hao Jiang</ins>\* (remote research assistant, 2025.01-2025.09), Junjie Li, Tianrui Wang, Haizhou Li   
 ICASSP 2026   
@@ -31,11 +36,6 @@ ICASSP 2026
 
 
 # 2025
-**EchoMind: An Interrelated Multi-Level Benchmark for Evaluating Empathetic Speech Language Models**   
-**Li Zhou**, <ins>Lutong Yu</ins> (master), <span style="text-decoration: underline double;">You Lyu</span> (research assistant, 2025.06-2025.09), <ins>Yihang Lin</ins> (master), Zefeng Zhao, Junyi Ao, Yuhao Zhang, Benyou Wang, Haizhou Li   
-Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2510.22758v1)
-
-
 
 
 **From Word to World: Evaluate and Mitigate Culture Bias in LLMs via Word Association Test**   
