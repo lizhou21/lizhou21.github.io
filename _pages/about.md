@@ -27,11 +27,7 @@ If you find my research intriguing or if it fits your project's needs,
 please feel free to reach out to me.
 
 Email: lizhou21@cuhk.edu.cn
-<!--
-<p align="left">
-  <img src="/images/1_1.png" width="300"/>
-</p>
-!-->
+
 
 # 🔥 News
 * [2026.01] &nbsp; 🎉🎉 Our work [EchoMind](http://hlt-cuhksz.github.io/EchoMind/) was accepted by [ICLR 2026](https://iclr.cc/)! Big thanks to all my wonderful co-authors!💓💓
