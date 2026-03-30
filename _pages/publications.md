@@ -30,7 +30,7 @@ author_profile: true
 ICLR 2026. [[Arxiv]](https://arxiv.org/abs/2510.22758v1)
 
 **EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**   
-**Li Zhou**\*, <ins>Hao Jiang</ins>\* (remote research assistant, 2025.01-2025.09), Junjie Li, Tianrui Wang, Haizhou Li   
+**Li Zhou**\*, <ins>Hao Jiang</ins>\* (remote research assistant, 2025.06-2025.09), Junjie Li, Tianrui Wang, Haizhou Li   
 ICASSP 2026   
 
 
