@@ -30,11 +30,12 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
+* [2026.04] &nbsp; 🎉🎉 CFP: The First Workshop on Pluralistic Value Alignment of LLMs ([PlurVA-LLM @ AACL‑IJCNLP 2026](https://plurvallm2026.github.io/)) is now open.
 * [2026.04] &nbsp; 🎉🎉 Our work [ScholarLens](http://) was accepted by [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)! 
 * [2026.01] &nbsp; 🎉🎉 Our work [EchoMind](http://hlt-cuhksz.github.io/EchoMind/) was accepted by [ICLR 2026](https://iclr.cc/)! 
 * [2026.01] &nbsp; 🎉🎉 One paper [EmoShift](https://arxiv.org/abs/2601.22873) on emotion-aware speech synthesis was accepted by [ICASSP 2026](https://2026.ieeeicassp.org/)!
-* [2025.10] &nbsp; 🌐🗺️ The 4th Workshop on Cross-Cultural Considerations in NLP ([C3NLP](https://c3nlp.github.io/)) is accepted by ACL 2026.
-* [2025.10] &nbsp; 😀😊 I was invited to serve as an Area Chair for ACL Rolling Review starting this October.
+* [2025.10] &nbsp; The 4th Workshop on Cross-Cultural Considerations in NLP ([C3NLP](https://c3nlp.github.io/)) is accepted by ACL 2026.
+* [2025.10] &nbsp; I was invited to serve as an Area Chair for ACL Rolling Review starting this October.
 * [2025.08] &nbsp; Three papers were accepted by [EMNLP2025](https://2025.emnlp.org/) main: 1) [Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation](https://arxiv.org/pdf/2506.01565); 2) [From Word to World: Evaluate and Mitigate Culture Bias in LLMs via Word Association Test](https://arxiv.org/pdf/2505.18562v1); 3) [RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented Instructions](https://arxiv.org/pdf/2501.00353), see you in Suzhou!
 * [2025.08] &nbsp; One paper was accepted by [IEEE Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723155): [Utilizing Contextual Clues and Role Correlations for Enhancing Document-level Event Argument Extraction](). 
 * [2025.05] &nbsp; One paper was accepted by [ACL 2025](https://2025.aclweb.org/) main: [Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles](https://arxiv.org/abs/2502.18968).
