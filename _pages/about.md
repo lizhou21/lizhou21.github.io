@@ -14,8 +14,10 @@ Hey! I'm Li Zhou, an NLP enthusiast and explorer🤗.
 I'm currently a Postdoc research fellow at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en), working with [Prof. Haizhou Li](https://colips.org/~eleliha/). I received my PhD degree from [UESTC](https://www.uestc.edu.cn/) in June 2024, supervised by Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10).
 During my PhD journey, I visited the [CoAStaL](https://coastalcph.github.io/) NLP group in the University of Copenhagen (2022-2023), supervised by Prof. [Daniel Hershcovich](https://danielhers.github.io/) and working with the rest of the team.
 
-My recent research focuses on speech language models, including emotionally intelligent dialogue systems and speech controllable generation.
-Besides, I am also interested in human-centered NLP, cultural consideration in NLP, LLM bias, AI Safety, and semantic representation learning.
+My research focuses on human–computer interaction, particularly speech language models and controllable speech generation, with additional interests in human-centered natural language processing, cultural inclusivity, and LLM alignment.
+
+<!--My recent research focuses on speech language models, including emotionally intelligent dialogue systems and speech controllable generation.
+Besides, I am also interested in human-centered NLP, cultural consideration in NLP, LLM bias, AI Safety, and semantic representation learning.!-->
 
 <!--in Human Language Technology Lab (HLT Lab, <img src="/images/11.png" width="20"/>!-->
 
