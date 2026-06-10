@@ -87,7 +87,8 @@ Email: lizhou21@cuhk.edu.cn
 - **Organizer:**   
   - C3NLP@ACL 2024.
   - C3NLP@NAACL 2025.
-  - C3NLP@ACL 2026. 
+  - C3NLP@ACL 2026.
+  - PlurVA-LLM @ AACL 2026
 
 <!--
 # 🎨 Personal
