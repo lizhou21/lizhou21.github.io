@@ -32,6 +32,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
+* [2025.08] &nbsp; Two papers were accepted by [EMNLP2026](https://2026.emnlp.org/) main: One focuses on value alignment in LLMs and the other presents TTS-Hub. Preprint coming soon.
 * [2026.05] &nbsp; 🎉🎉 Our work [Emo-LiPO](http://) about fine-grained emotion intensity control in LLM-based TTS was accepted by [IJCAI 2026](https://2026.ijcai.org/)! 
 * [2026.04] &nbsp; 🌐🗺️ CFP: The First Workshop on Pluralistic Value Alignment of LLMs ([PlurVA-LLM @ AACL‑IJCNLP 2026](https://plurvallm2026.github.io/)) is now open.
 * [2026.04] &nbsp; 🎉🎉 Our work [ScholarLens](http://) was accepted by [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)! 
