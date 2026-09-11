@@ -83,6 +83,7 @@ Email: lizhou21@cuhk.edu.cn
   - Computer Speech & Language, International Journal of Machine Learning and Cybernetics
   - ACM Transactions on Asian and Low-Resource Language Information Processing
   - IEEE Transactions on Emerging Topics in Computational Intelligence, International Journal of Social Robotics
+  - Journal of Artificial Intelligence Research
   - Neurocomputing, Acta Psychologica, Computers in Human Behavior
   - IEEE Transactions on Cognitive and Developmental Systems
 
