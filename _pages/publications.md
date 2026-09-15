@@ -25,6 +25,10 @@ author_profile: true
 
 # 2026
 
+**Emo-LiPO: Listwise Preference Optimization for Fine-Grained Emotion Intensity Control in LLM-based Text-to-Speech**   
+<ins>Yihang Lin</ins>\* (master), **Li Zhou**\*\#, <ins>Congwei Cao</ins> (remote master), <ins>Dongchu Xie</ins> (undergraduate), Xiaoxue Gao, Chen Zhang, Haizhou Li\#   
+EAAI 2026. [[Arxiv]](https://arxiv.org/abs/2502.11193)[[Journal]](https://www.sciencedirect.com/science/article/pii/S0952197626012716)
+
 **ScholarLens: Tracking the growing penetration of Large Language Models in scholarly writing and peer review**   
 **Li Zhou**\*, <ins>Ruijie Zhang</ins>\* (remote undergraduate), <ins>Xunlian Dai</ins> (visiting undergraduate), Daniel Hershcovich, Haizhou Li   
 EAAI 2026. [[Arxiv]](https://arxiv.org/abs/2502.11193)[[Journal]](https://www.sciencedirect.com/science/article/pii/S0952197626012716)
