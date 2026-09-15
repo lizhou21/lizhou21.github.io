@@ -25,13 +25,18 @@ author_profile: true
 
 # 2026
 
+**ScholarLens: Tracking the growing penetration of Large Language Models in scholarly writing and peer review**   
+**Li Zhou**\*, <ins>Ruijie Zhang</ins>\* (remote undergraduate), <ins>Xunlian Dai</ins> (visiting undergraduate), Daniel Hershcovich, Haizhou Li   
+EAAI 2026. [[Arxiv]](https://arxiv.org/abs/2502.11193)[[Journal]](https://www.sciencedirect.com/science/article/pii/S0952197626012716)
+
+
 **EchoMind: An Interrelated Multi-Level Benchmark for Evaluating Empathetic Speech Language Models**   
 **Li Zhou**, <ins>Lutong Yu</ins> (master), <span style="text-decoration: underline double;">You Lyu</span> (research assistant, 2025.06-2025.09), <ins>Yihang Lin</ins> (master), Zefeng Zhao, Junyi Ao, Yuhao Zhang, Benyou Wang, Haizhou Li   
-ICLR 2026. [[Arxiv]](https://arxiv.org/abs/2510.22758v1)
+ICLR 2026. [[Arxiv]](https://arxiv.org/abs/2510.22758v1) [[Proceedings]](https://openreview.net/pdf?id=l5re5ppqrX)
 
 **EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**   
 **Li Zhou**\*, <ins>Hao Jiang</ins>\* (remote research assistant, 2025.06-2025.09), Junjie Li, Tianrui Wang, Haizhou Li   
-ICASSP 2026   
+ICASSP 2026. [[Arxiv]](https://arxiv.org/abs/2601.22873) [[Proceedings]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11464460)
 
 
 
@@ -55,9 +60,7 @@ EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2501.00353)
 **Li Zhou**, <ins>Hao Jiang</ins> (remote research assistant, 2025.01-2025.09), Junjie Li, Zefeng Zhao, Feng Jiang, Wenyu Chen, Haizhou Li     
 Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2506.21682)
 
-**Large language models penetration in scholarly writing and peer review**   
-**Li Zhou**, <ins>Ruijie Zhang</ins> (remote undergraduate), <ins>Xunlian Dai</ins> (visiting undergraduate), Daniel Hershcovich, Haizhou Li   
-Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2502.11193)
+
 
 **Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement**   
 <ins>Zihao Cheng</ins>\* (master, 2024.06-2024.10), **Li Zhou**\*\#, Feng Jiang, Benyou Wang, Haizhou Li   
