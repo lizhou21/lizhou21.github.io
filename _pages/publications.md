@@ -25,30 +25,30 @@ author_profile: true
 
 # 2026
 
-32. **TTS-Hub: Leveraging Modular LoRAs and Arithmetic Composition for Controllable Text-to-Speech**   
+32.**TTS-Hub: Leveraging Modular LoRAs and Arithmetic Composition for Controllable Text-to-Speech**   
 Xiang Li, Shiqi Zhang, Zichen Xu, Wenyuan Gu, Hongru Xiao, Bo Cheng,  **Li Zhou**, Jiale Han, and Benyou Wang.   
 EMNLP 2026.
 
-31. **Steer on Rubrics: Auditable Steering of Schwartz Values in Language Models**   
+31.**Steer on Rubrics: Auditable Steering of Schwartz Values in Language Models**   
 <span style="text-decoration: underline double;">Zichen Xu</span> (master), <span style="text-decoration: underline double;">Geng Zhao</span> (research assistant), <span style="text-decoration: underline double;">Aoxiang Qin</span> (master), **Li Zhou**\#, Benyou Wang.   
 EMNLP 2026.
 
 
 
-30. **Emo-LiPO: Listwise Preference Optimization for Fine-Grained Emotion Intensity Control in LLM-based Text-to-Speech**   
+30.**Emo-LiPO: Listwise Preference Optimization for Fine-Grained Emotion Intensity Control in LLM-based Text-to-Speech**   
 <ins>Yihang Lin</ins>\* (master), **Li Zhou**\*\#, <ins>Congwei Cao</ins> (remote master), <ins>Dongchu Xie</ins> (undergraduate), Xiaoxue Gao, Chen Zhang, Haizhou Li\#   
 EAAI 2026. [[Arxiv]](https://arxiv.org/abs/2502.11193)   [[Proceedings]](https://www.sciencedirect.com/science/article/pii/S0952197626012716)
 
-29. **ScholarLens: Tracking the growing penetration of Large Language Models in scholarly writing and peer review**   
+29.**ScholarLens: Tracking the growing penetration of Large Language Models in scholarly writing and peer review**   
 **Li Zhou**\*, <ins>Ruijie Zhang</ins>\* (remote undergraduate), <ins>Xunlian Dai</ins> (visiting undergraduate), Daniel Hershcovich, Haizhou Li   
 EAAI 2026. [[Arxiv]](https://arxiv.org/abs/2502.11193)   [[Journal]](https://www.sciencedirect.com/science/article/pii/S0952197626012716)
 
 
-28. **EchoMind: An Interrelated Multi-Level Benchmark for Evaluating Empathetic Speech Language Models**   
+28.**EchoMind: An Interrelated Multi-Level Benchmark for Evaluating Empathetic Speech Language Models**   
 **Li Zhou**, <ins>Lutong Yu</ins> (master), <span style="text-decoration: underline double;">You Lyu</span> (research assistant, 2025.06-2025.09), <ins>Yihang Lin</ins> (master), Zefeng Zhao, Junyi Ao, Yuhao Zhang, Benyou Wang, Haizhou Li   
 ICLR 2026. [[Arxiv]](https://arxiv.org/abs/2510.22758v1) [[Proceedings]](https://openreview.net/pdf?id=l5re5ppqrX)
 
-27. **EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**   
+27.**EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**   
 **Li Zhou**\*, <ins>Hao Jiang</ins>\* (remote research assistant, 2025.06-2025.09), Junjie Li, Tianrui Wang, Haizhou Li   
 ICASSP 2026. [[Arxiv]](https://arxiv.org/abs/2601.22873) [[Proceedings]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11464460)
 
@@ -57,16 +57,16 @@ ICASSP 2026. [[Arxiv]](https://arxiv.org/abs/2601.22873) [[Proceedings]](https:/
 # 2025
 
 
-26. **From Word to World: Evaluate and Mitigate Culture Bias in LLMs via Word Association Test**   
+26.**From Word to World: Evaluate and Mitigate Culture Bias in LLMs via Word Association Test**   
 <ins>Xunlian Dai</ins> (visiting undergraduate, 2024.12-2025.05), **Li Zhou**\#, Benyou Wang, Haizhou Li   
 EMNLP 2025 main (oral). [[Arxiv]](https://arxiv.org/abs/2505.18562)
 
-25. **Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation**   
+25.**Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation**   
 **Li Zhou**\*\#, <ins>Lutong Yu</ins>\* (master), <ins>Dongchu Xie</ins> (undergraduate), Shaohuan Cheng, Wenyan Li, Haizhou Li   
 EMNLP 2025 main (oral). [[Arxiv]](https://arxiv.org/abs/2506.01565)
 
 
-24. **RAG-Instruct: Boosting LLMs with diverse retrieval-augmented instructions**   
+24.**RAG-Instruct: Boosting LLMs with diverse retrieval-augmented instructions**   
 Wanlong Liu\*, Junying Chen\*, Ke Ji, **Li Zhou**, Wenyu Chen, Benyou Wang   
 EMNLP 2025 main. [[Arxiv]](https://arxiv.org/abs/2501.00353)
 
@@ -76,38 +76,38 @@ Arxiv 2025. [[Arxiv]](https://arxiv.org/abs/2506.21682)!-->
 
 
 
-23. **Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement**   
+23.**Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement**   
 <ins>Zihao Cheng</ins>\* (master, 2024.06-2024.10), **Li Zhou**\*\#, Feng Jiang, Benyou Wang, Haizhou Li   
 WWW 2025. [[Arxiv]](https://arxiv.org/abs/2410.14259) [[Proceedings]](https://dl.acm.org/doi/10.1145/3696410.3714770)
 
-22. **Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles**   
+22.**Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles**   
 Kuang Wang, Xianfei Li, Shenghao Yang, **Li Zhou**, Feng Jiang, Haizhou Li   
 ACL 2025. [[Arxiv]](https://arxiv.org/abs/2502.18968) [[Proceedings]](https://aclanthology.org/2025.acl-long.1025.pdf)
 
-21. **Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge**   
+21.**Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge**   
 **Li Zhou**, Taelin Karidi, Nicolas Garneau, Yong Cao, Wanlong Liu, Wenyu Chen, Haizhou Li, Daniel Hershcovich   
 NAACL 2025. [[Arxiv]](https://arxiv.org/pdf/2404.06833.pdf)  [[Proceedings]](https://aclanthology.org/2025.naacl-long.496/)
 
-20. **A Compressive Memory-based Retrieval Approach for Event Argument Extractiont**   
+20.**A Compressive Memory-based Retrieval Approach for Event Argument Extractiont**   
 Wanlong Liu, Enqi Zhang, Shaohuan Cheng, **Li Zhou**, Dingyi Zeng, Chen Zhang, Malu Zhang, Wenyu Chen   
 COLING 2025. [[Arxiv]](https://arxiv.org/abs/2409.09322)  [[Proceedings]](https://aclanthology.org/2025.coling-main.85.pdf)
 
-19. **Enhancing Document-Level Relation Extraction through Entity-Pair-Level Interaction Modeling**   
+19.**Enhancing Document-Level Relation Extraction through Entity-Pair-Level Interaction Modeling**   
 Wanlong Liu, Dingyi Zeng, **Li Zhou**, Yichen Xiao, Malu Zhang, Wenyu Chen   
 ICASSP 2025. [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/10887549/)
 
-18. **Utilizing Contextual Clues and Role Correlations for Enhancing Document-level Event Argument Extraction**   
+18.**Utilizing Contextual Clues and Role Correlations for Enhancing Document-level Event Argument Extraction**   
 Wanlong Liu, Dingyi Zeng, **Li Zhou**, Wenyu Chen, Malu Zhang, Dan Liu, Xiaodong He, Haizhou Li   
 IEEE Transactions on Audio, Speech and Language Processing, 2025. [[Journal]](https://ieeexplore.ieee.org/document/11145944/authors#authors)
 
-17. **Document-level relation extraction with structural encoding and entity-pair-level information interaction**   
+17.**Document-level relation extraction with structural encoding and entity-pair-level information interaction**   
 Wanlong Liu, Yichen Xiao, Shaohuan Cheng, Dingyi Zeng, **Li Zhou**, Weishan Kong, Malu Zhang, Wenyu Chen   
 Expert Systems with Applications, 2025.  [[Journal]](https://www.sciencedirect.com/science/article/pii/S095741742402966X)
 
 
 # 2024
 
-16. **MLPs Compass: What is learned when MLPs are combined with PLMs?**   
+16.**MLPs Compass: What is learned when MLPs are combined with PLMs?**   
 **Li Zhou**, Wenyu Chen, Yong Cao, Dingyi Zeng, Wanlong Liu, Hong Qu.  
 ICASSP 2024. [[Arxiv]](https://arxiv.org/abs/2401.01667) [[Proceedings]](https://ieeexplore.ieee.org/document/10447714)
 
@@ -116,23 +116,23 @@ ICASSP 2024. [[Arxiv]](https://arxiv.org/abs/2401.01667) [[Proceedings]](https:/
 **Li Zhou**, Wenyu Chen, Dingyi Zeng, Malu Zhang, Daniel Hershcovich   
 Arxiv 2023. [[Arxiv]](https://arxiv.org/abs/2310.09772)!-->
 
-15. **Beyond Single-Event Extraction: Towards Efficient Document-Level Multi-Event Argument Extraction**   
+15.**Beyond Single-Event Extraction: Towards Efficient Document-Level Multi-Event Argument Extraction**   
 Wanlong Liu, **Li Zhou**, Dingyi Zeng, Yichen Xiao, Shaohuan Cheng, Chen Zhang, Grandee Lee, Malu Zhang, Wenyu Chen   
 Findings of ACL 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
 
-14. **Dynamic Training for Handling Textual Label Noise**   
+14.**Dynamic Training for Handling Textual Label Noise**   
 Shaohuan Cheng, Wenyu Chen, Wanlong Liu, **Li Zhou**, Honglin Zhao, Weishan Kong, Hong Qu, Mingsheng Fu   
 Applied Intelligence 2024. [[Journal]](https://link.springer.com/article/10.1007/s10489-024-05738-x)
 
-13. **FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture**   
+13.**FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture**   
 Wenyan Li, Xinyu Zhang, Jiaang Li, Qiwei Peng, Raphael Tang, **Li Zhou**, Weijia Zhang, Guimin Hu, Yifei Yuan, Anders Søgaard, Daniel Hershcovich, Desmond Elliott   
 EMNLP 2024. [[Arxiv]](https://arxiv.org/abs/2405.01884)
 
-12. **CreoleVal: Multilingual Multitask Benchmarks for Creoles**   
+12.**CreoleVal: Multilingual Multitask Benchmarks for Creoles**   
 Heather Lent, Kushal Tatariya, Raj Dabre, Yiyi Chen, Marcell Fekete, Esther Ploeger, **Li Zhou**, Hans Erik Heje, Diptesh Kanojia, Paul Belony, Marcel Bollmann, Loïc Grobol, Miryam de Lhoneux, Daniel Hershcovich, Michel DeGraff, Anders Søgaard, Johannes Bjerva   
 Transactions of the Association for Computational Linguistics (TACL). [[Arxiv]](https://arxiv.org/abs/2310.19567)
 
-11. **Cultural Adaptation of Recipes**   
+11.**Cultural Adaptation of Recipes**   
 Yong Cao\*, Yova Kementchedjhieva\*, Ruixiang Cui, Antonia Karamolegkou, **Li Zhou**, Megan Dare, Lucia Donatelli, Daniel Hershcovich   
 Transactions of the Association for Computational Linguistics (TACL).[[Arxiv]](https://arxiv.org/abs/2310.17353)
 
@@ -140,47 +140,47 @@ Transactions of the Association for Computational Linguistics (TACL).[[Arxiv]](h
 # 2023
 
 
-10. **DPGNN: Dual-perception graph neural network for representation learning**   
+10.**DPGNN: Dual-perception graph neural network for representation learning**   
 **Li Zhou**, Wenyu Chen, Dingyi Zeng, Shaohuan Cheng, Wanlong Liu, Malu Zhang, Hong Qu   
 Knowledge-Based Systems [[Journal]](https://www.sciencedirect.com/science/article/pii/S0950705123001272) [[PDF]](https://lizhou21.github.io/files/DPGNN.pdf)
 
-9. **Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features**   
+9.**Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features**   
 **Li Zhou**,  Antonia Karamolegkou, Wenyu Chen, Daniel Hershcovich   
 Findings of EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.06458) [[Proceedings]](https://aclanthology.org/2023.findings-emnlp.845/)
 
-8. **Copyright Violations and Large Language Models**   
+8.**Copyright Violations and Large Language Models**   
 Antonia Karamolegkou\*, Jiaang Li\*, **Li Zhou**, Anders Søgaard   
 EMNLP 2023. [[Arxiv]](https://arxiv.org/abs/2310.13771) [[Proceedings]](https://aclanthology.org/2023.emnlp-main.458/)
 
-7. **Cross-Cultural Transfer Learning for Chinese Offensive Language Detection**   
+7.**Cross-Cultural Transfer Learning for Chinese Offensive Language Detection**   
 **Li Zhou**, Laura Cabello, Yong Cao, Daniel Hershcovich   
 Cross-Cultural Considerations in NLP Workshop at EACL 2023 [[Proceedings]](https://aclanthology.org/2023.c3nlp-1.2/) [[Arxiv]](https://arxiv.org/abs/2303.17927)
 
-6. **Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study**   
+6.**Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study**   
 Yong Cao, **Li Zhou**, Seolhwa Lee, Laura Cabello Piqueras, Min Chen, Daniel Hershcovich   
 Cross-Cultural Considerations in NLP Workshop at EACL 2023 [[Proceedings]](https://aclanthology.org/2023.c3nlp-1.7/) [[Arxiv]](https://arxiv.org/abs/2303.17466)
 
-5. **Rethinking Random Walk in Graph Representation Learning**   
+5.**Rethinking Random Walk in Graph Representation Learning**   
 Dingyi Zeng, Wenyu Chen, Wanlong Liu, **Li Zhou**, Hong Qu   
 ICASSP 2023 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/10096316/)
 
-4. **Substructure aware graph neural networks**   
+4.**Substructure aware graph neural networks**   
 Dingyi Zeng\*, Wanlong Liu\*, Wenyu Chen, **Li Zhou**, Malu Zhang, Hong Qu   
 AAAI 2023 [[Proceedings]](https://ojs.aaai.org/index.php/AAAI/article/view/26318)
 
 # 2022
 
-3. **A simple graph neural network via layer sniffer**   
+3.**A simple graph neural network via layer sniffer**   
 Dingyi Zeng\*, **Li Zhou**\*, Wanlong Liu, Hong Qu, Wenyu Chen   
 ICASSP 2022 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/9746357)
 
-2. **Document-Level Relation Extraction with Structure Enhanced Transformer Encoder**   
+2.**Document-Level Relation Extraction with Structure Enhanced Transformer Encoder**   
 Wanlong Liu, **Li Zhou**, Dingyi Zeng, Hong Qu   
 IJCNN 2022 [[Proceedings]](https://ieeexplore.ieee.org/abstract/document/9892647)
 
 # 2020
 
-1. **A weighted GCN with logical adjacency matrix for relation extraction**   
+1.**A weighted GCN with logical adjacency matrix for relation extraction**   
 **Li Zhou**\*, Tingyu Wang*, Hong Qu, Li Huang, Yuguo Liu   
 ECAI 2020 [[Proceedings]](https://ebooks.iospress.nl/doi/10.3233/FAIA200360)
 
