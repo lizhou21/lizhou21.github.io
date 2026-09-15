@@ -25,13 +25,23 @@ author_profile: true
 
 # 2026
 
+**TTS-Hub: Leveraging Modular LoRAs and Arithmetic Composition for Controllable Text-to-Speech**   
+Xiang Li, Shiqi Zhang, Zichen Xu, Wenyuan Gu, Hongru Xiao, Bo Cheng,  **Li Zhou**, Jiale Han, and Benyou Wang.   
+EMNLP 2026.
+
+**Steer on Rubrics: Auditable Steering of Schwartz Values in Language Models**   
+<span style="text-decoration: underline double;">Zichen Xu</span> (master), <span style="text-decoration: underline double;">Geng Zhao</span> (research assistant), <span style="text-decoration: underline double;">Aoxiang Qin</span> (master), **Li Zhou**\#, Benyou Wang.   
+EMNLP 2026.
+
+
+
 **Emo-LiPO: Listwise Preference Optimization for Fine-Grained Emotion Intensity Control in LLM-based Text-to-Speech**   
 <ins>Yihang Lin</ins>\* (master), **Li Zhou**\*\#, <ins>Congwei Cao</ins> (remote master), <ins>Dongchu Xie</ins> (undergraduate), Xiaoxue Gao, Chen Zhang, Haizhou Li\#   
-EAAI 2026. [[Arxiv]](https://arxiv.org/abs/2502.11193)[[Journal]](https://www.sciencedirect.com/science/article/pii/S0952197626012716)
+EAAI 2026. [[Arxiv]](https://arxiv.org/abs/2502.11193)   [[Proceedings]](https://www.sciencedirect.com/science/article/pii/S0952197626012716)
 
 **ScholarLens: Tracking the growing penetration of Large Language Models in scholarly writing and peer review**   
 **Li Zhou**\*, <ins>Ruijie Zhang</ins>\* (remote undergraduate), <ins>Xunlian Dai</ins> (visiting undergraduate), Daniel Hershcovich, Haizhou Li   
-EAAI 2026. [[Arxiv]](https://arxiv.org/abs/2502.11193)[[Journal]](https://www.sciencedirect.com/science/article/pii/S0952197626012716)
+EAAI 2026. [[Arxiv]](https://arxiv.org/abs/2502.11193)   [[Journal]](https://www.sciencedirect.com/science/article/pii/S0952197626012716)
 
 
 **EchoMind: An Interrelated Multi-Level Benchmark for Evaluating Empathetic Speech Language Models**   
