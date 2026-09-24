@@ -30,7 +30,7 @@ Xiang Li, Shiqi Zhang, Zichen Xu, Wenyuan Gu, Hongru Xiao, Bo Cheng,  **Li Zhou*
 EMNLP 2026 main.
 
 [31] **Steer on Rubrics: Auditable Steering of Schwartz Values in Language Models**   
-<span style="text-decoration: underline double;">Zichen Xu</span> (master), <span style="text-decoration: underline double;">Geng Zhao</span> (research assistant), <span style="text-decoration: underline double;">Aoxiang Qin</span> (master), **Li Zhou**\#, Benyou Wang.   
+<span style="text-decoration: underline double;">Zichen Xu</span> (master), <span style="text-decoration: underline double;">Geng Zhao</span> (research assistant, 2026.03-2026.09), <span style="text-decoration: underline double;">Aoxiang Qin</span> (master), **Li Zhou**\#, Benyou Wang.   
 EMNLP 2026 main.
 
 
