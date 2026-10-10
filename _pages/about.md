@@ -32,7 +32,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
-* [2026.10] &nbsp; 🥹🥹 [EchoMind](https://openreview.net/pdf?id=l5re5ppqrX) has been adopted by [Qwen-Audio-3.1-Realtime](https://arxiv.org/pdf/2609.25176v2) for empathy evaluation.
+* [2026.10] &nbsp; 🥹🥹 [EchoMind](https://openreview.net/pdf?id=l5re5ppqrX) has been adopted by [Qwen-Audio-3.1-Realtime](https://arxiv.org/pdf/2609.25176v2) , [TASTE2](https://arxiv.org/pdf/2609.08956), and [ParaBridge](https://arxiv.org/pdf/2606.10581) for empathy evaluation.
 * [2026.08] &nbsp; 🎉🎉 Two papers were accepted by [EMNLP 2026](https://2026.emnlp.org/) main: One focuses on value alignment in LLMs and the other presents TTS-Hub. Preprint coming soon.
 * [2026.05] &nbsp; 🎉🎉 Our work [Emo-LiPO](http://) about fine-grained emotion intensity control in LLM-based TTS was accepted by [IJCAI 2026](https://2026.ijcai.org/)! 
 * [2026.04] &nbsp; 🌐🗺️ CFP: The First Workshop on Pluralistic Value Alignment of LLMs ([PlurVA-LLM @ AACL‑IJCNLP 2026](https://plurvallm2026.github.io/)) is now open.
