@@ -33,7 +33,7 @@ Email: lizhou21@cuhk.edu.cn
 
 # 🔥 News
 * **🔝🔝 [2026.10] &nbsp; 🥹🥹 [EchoMind](https://openreview.net/pdf?id=l5re5ppqrX) has been adopted by [Qwen-Audio-3.1-Realtime](https://arxiv.org/pdf/2609.25176v2) for empathy evaluation.**
-* [2026.10] &nbsp; 🗣️🗣️ I’ll be giving a talk at the special-topic forum during [CEI 2026](https://www.cei2026.com/en), sharing my recent work on "Empathetic Speech and Cultural Inclusivity to Advance Affective Intelligence for Natural HCI".
+* [2026.10] &nbsp; 🗣️🗣️ I'm honored to give a talk at the special-topic forum during [CEI 2026](https://www.cei2026.com/en), sharing my recent work on "Empathetic Speech and Cultural Inclusivity to Advance Affective Intelligence for Natural HCI".
 * [2026.08] &nbsp; 🌐🗺️ I serve as the local chair of [MRI NerdFest](https://www.mrinerdfest.org/), a four-day workshop focused on building an MRI scanner from the ground up.
 * [2026.08] &nbsp; 🎉🎉 Two papers were accepted by [EMNLP 2026](https://2026.emnlp.org/) main: One focuses on value alignment in LLMs and the other presents TTS-Hub. Preprint coming soon.
 * [2026.05] &nbsp; 🎉🎉 Our work [Emo-LiPO](http://) about fine-grained emotion intensity control in LLM-based TTS was accepted by [IJCAI 2026](https://2026.ijcai.org/)! 
