@@ -32,13 +32,14 @@ Email: lizhou21@cuhk.edu.cn
 
 
 # 🔥 News
-* [2026.10] &nbsp; 🥹🥹 [EchoMind](https://openreview.net/pdf?id=l5re5ppqrX) has been adopted by [Qwen-Audio-3.1-Realtime](https://arxiv.org/pdf/2609.25176v2) for empathy evaluation.
+* **🔝🔝 [2026.10] &nbsp; 🥹🥹 [EchoMind](https://openreview.net/pdf?id=l5re5ppqrX) has been adopted by [Qwen-Audio-3.1-Realtime](https://arxiv.org/pdf/2609.25176v2) for empathy evaluation.**
+* [2026.10] &nbsp; 🗣️🗣️ I’ll be giving a talk at the special-topic forum during [CEI 2026](https://www.cei2026.com/en), sharing my recent work on "Empathetic Speech and Cultural Inclusivity to Advance Affective Intelligence for Natural HCI".
 * [2026.08] &nbsp; 🎉🎉 Two papers were accepted by [EMNLP 2026](https://2026.emnlp.org/) main: One focuses on value alignment in LLMs and the other presents TTS-Hub. Preprint coming soon.
 * [2026.05] &nbsp; 🎉🎉 Our work [Emo-LiPO](http://) about fine-grained emotion intensity control in LLM-based TTS was accepted by [IJCAI 2026](https://2026.ijcai.org/)! 
 * [2026.04] &nbsp; 🌐🗺️ CFP: The First Workshop on Pluralistic Value Alignment of LLMs ([PlurVA-LLM @ AACL‑IJCNLP 2026](https://plurvallm2026.github.io/)) is now open.
-* [2026.04] &nbsp; 🎉🎉 Our work [ScholarLens](http://) was accepted by [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)! 
-* [2026.01] &nbsp; 🎉🎉 Our work [EchoMind](http://hlt-cuhksz.github.io/EchoMind/) was accepted by [ICLR 2026](https://iclr.cc/)! 
-* [2026.01] &nbsp; 🎉🎉 One paper [EmoShift](https://arxiv.org/abs/2601.22873) on emotion-aware speech synthesis was accepted by [ICASSP 2026](https://2026.ieeeicassp.org/)!
+* [2026.04] &nbsp; Our work [ScholarLens](http://) was accepted by [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)! 
+* [2026.01] &nbsp; Our work [EchoMind](http://hlt-cuhksz.github.io/EchoMind/) was accepted by [ICLR 2026](https://iclr.cc/)! 
+* [2026.01] &nbsp; One paper [EmoShift](https://arxiv.org/abs/2601.22873) on emotion-aware speech synthesis was accepted by [ICASSP 2026](https://2026.ieeeicassp.org/)!
 * ……
 
 
