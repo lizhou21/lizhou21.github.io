@@ -34,7 +34,6 @@ Email: lizhou21@cuhk.edu.cn
 # 🔥 News
 * **🔝🔝 [2026.10] &nbsp; 🥹🥹 [EchoMind](https://openreview.net/pdf?id=l5re5ppqrX) has been adopted by [Qwen-Audio-3.1-Realtime](https://arxiv.org/pdf/2609.25176v2) for empathy evaluation.**
 * [2026.10] &nbsp; 🗣️🗣️ I'm honored to give a talk at the special-topic forum during [CEI 2026](https://www.cei2026.com/en), sharing my recent work on "Empathetic Speech and Cultural Inclusivity to Advance Affective Intelligence for Natural HCI".
-* [2026.08] &nbsp; 🌐🗺️ I serve as the local chair of [MRI NerdFest](https://www.mrinerdfest.org/), a four-day workshop focused on building an MRI scanner from the ground up.
 * [2026.08] &nbsp; 🎉🎉 Two papers were accepted by [EMNLP 2026](https://2026.emnlp.org/) main: One focuses on value alignment in LLMs and the other presents TTS-Hub. Preprint coming soon.
 * [2026.05] &nbsp; 🎉🎉 Our work [Emo-LiPO](http://) about fine-grained emotion intensity control in LLM-based TTS was accepted by [IJCAI 2026](https://2026.ijcai.org/)! 
 * [2026.04] &nbsp; 🌐🗺️ CFP: The First Workshop on Pluralistic Value Alignment of LLMs ([PlurVA-LLM @ AACL‑IJCNLP 2026](https://plurvallm2026.github.io/)) is now open.
@@ -45,6 +44,7 @@ Email: lizhou21@cuhk.edu.cn
 
 
 <!--
+* [2026.08] &nbsp; 🌐🗺️ I serve as the local chair of [MRI NerdFest](https://www.mrinerdfest.org/), a four-day workshop focused on building an MRI scanner from the ground up.
 * [2025.10] &nbsp; The 4th Workshop on Cross-Cultural Considerations in NLP ([C3NLP](https://c3nlp.github.io/)) is accepted by ACL 2026.
 * [2025.10] &nbsp; I was invited to serve as an Area Chair for ACL Rolling Review starting this October.
 * [2025.08] &nbsp; Three papers were accepted by [EMNLP2025](https://2025.emnlp.org/) main: 1) [Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation](https://arxiv.org/pdf/2506.01565); 2) [From Word to World: Evaluate and Mitigate Culture Bias in LLMs via Word Association Test](https://arxiv.org/pdf/2505.18562v1); 3) [RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented Instructions](https://arxiv.org/pdf/2501.00353), see you in Suzhou!
