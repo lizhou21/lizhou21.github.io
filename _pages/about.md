@@ -95,11 +95,13 @@ Email: lizhou21@cuhk.edu.cn
   - IEEE Transactions on Cognitive and Developmental Systems
 
 - **Organizer:**   
-  - C3NLP@ACL 2024.
-  - C3NLP@NAACL 2025.
-  - C3NLP@ACL 2026.
-  - PlurVA-LLM @ AACL 2026
-
+  - [C3NLP@ACL 2024](https://sites.google.com/view/c3nlp/home).
+  - [C3NLP@NAACL 2025](https://c3nlp.github.io/2025/).
+  - [C3NLP@ACL 2026](https://c3nlp.github.io/#workshop).
+  - [PlurVA-LLM @ AACL 2026](https://plurvallm2026.github.io/).
+ 
+- **Talk:**   
+  - [Special Forums @ CEI 2026](https://www.cei2026.com/forums?target=forum-8)
 <!--
 # 🎨 Personal
 🏠I grew up in Chengdu, my hometown, a city that blends modernity with traditional culture, boasting over two thousand years of history and renowned as the food capital with delicacies such as hotpot🍲, and traditional Sichuan dishes like mapo tofu🌶️. Chengdu is also home to 🐼He Hua (nicknamed Hua Hua) , captivating Chinese hearts with her mild temperament and rare inability to climb trees. I love my city, it's also a highly inclusive city.
