@@ -33,7 +33,7 @@ Email: lizhou21@cuhk.edu.cn
 
 # 🔥 News
 * **🔝🔝 [2026.10] &nbsp; 🥹🥹 [EchoMind](https://openreview.net/pdf?id=l5re5ppqrX) has been adopted by [Qwen-Audio-3.1-Realtime](https://arxiv.org/pdf/2609.25176v2) for empathy evaluation.**
-* [2026.10] &nbsp; 🗣️🗣️ I'm honored to give a talk at the special-topic forum during [CEI 2026](https://www.cei2026.com/en), sharing my recent work on "Empathetic Speech and Cultural Inclusivity to Advance Affective Intelligence for Natural HCI".
+* [2026.10] &nbsp; 🗣️🗣️ I'm honored to give a talk at the special-topic forum during CEI 2026, sharing my recent work on "Empathetic Speech and Cultural Inclusivity to Advance Affective Intelligence for Natural HCI".
 * [2026.08] &nbsp; 🎉🎉 Two papers were accepted by [EMNLP 2026](https://2026.emnlp.org/) main: One focuses on value alignment in LLMs and the other presents TTS-Hub. Preprint coming soon.
 * [2026.05] &nbsp; 🎉🎉 Our work [Emo-LiPO](http://) about fine-grained emotion intensity control in LLM-based TTS was accepted by [IJCAI 2026](https://2026.ijcai.org/)! 
 * [2026.04] &nbsp; 🌐🗺️ CFP: The First Workshop on Pluralistic Value Alignment of LLMs ([PlurVA-LLM @ AACL‑IJCNLP 2026](https://plurvallm2026.github.io/)) is now open.
@@ -100,11 +100,12 @@ Email: lizhou21@cuhk.edu.cn
   - [C3NLP@ACL 2026](https://c3nlp.github.io/#workshop).
   - [PlurVA-LLM @ AACL 2026](https://plurvallm2026.github.io/).
  
-- **Talk:**   
-  - [Special Forums @ CEI 2026](https://www.cei2026.com/forums?target=forum-8)
+
  
     
 <!--
+- **Talk:**   
+  - [Special Forums @ CEI 2026](https://www.cei2026.com/forums?target=forum-8)
 # 🎨 Personal
 🏠I grew up in Chengdu, my hometown, a city that blends modernity with traditional culture, boasting over two thousand years of history and renowned as the food capital with delicacies such as hotpot🍲, and traditional Sichuan dishes like mapo tofu🌶️. Chengdu is also home to 🐼He Hua (nicknamed Hua Hua) , captivating Chinese hearts with her mild temperament and rare inability to climb trees. I love my city, it's also a highly inclusive city.
 
